@@ -180,13 +180,6 @@ The default configuration file adopts the `Pure PLM ` model, and you can develop
 
 If you want to use this framework in new tasks or datasets, here are some tuning [tips](readme/hyperparameter_tuning.md) by @Victor0118.
 
-## Report Issue or Problem
-
-If you want to report an issue or ask a problem, please attach the following materials if necessary. With these information, we can provide a fast and accurate discussion and the corrsponding suggestions.
-
-* `log file`
-* `config file`
-* `sample data`
 
 ## Cite
 
@@ -198,18 +191,3 @@ If you use **YATO++** in your paper, please cite our [paper](https://arxiv.org/a
     year={2022}
     }
 
-
-## Future Plan
-
-* Support API usage
-* Release trained model on various sequence labeling and classification tasks
-
-## Updates
-
-* 2022-May-14  **YATO**, init version
-* 2020-Mar-06, dev version, sentence classification, framework change, model saved in one file.
-* 2018-Dec-17, **NCRF++** v0.2, support PyTorch 1.0
-* 2018-Mar-30, **NCRF++** v0.1, initial version
-* 2018-Jan-06, add result comparison.
-* 2018-Jan-02, support character feature selection.
-* 2017-Dec-06, init version
