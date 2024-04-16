@@ -1,29 +1,5 @@
 ## YATO: Yet Another deep learning based Text analysis Open toolkit
 
-## Quick Links
-
-- [Introduction](#introduction)
-  - [Getting Started](#getting-started)
-  - [Data Format](#data-format)
-  - [Configuration Preparation](#configuration-preparation)
-    - [Training Configuration](#training-configuration)
-      - [Dataloader](#dataloader)
-      - [Model](#model)
-    - [Hyperparameters](#hyperparameters)
-    - [Decode Configuration](#decode-configuration)
-  - [Performance](#performance)
-    - [Results for sequence labeling tasks.](#results-for-sequence-labeling-tasks)
-    - [Results for sequence classification tasks.](#results-for-sequence-classification-tasks)
-  - [Add Handcrafted Features](#add-handcrafted-features)
-  - [Speed](#speed)
-  - [N best Decoding](#n-best-decoding)
-  - [Text Attention Heatmap Visualization](#text-attention-heatmap-visualization)
-  - [Reproduce Paper Results and Hyperparameter Tuning](#reproduce-paper-results-and-hyperparameter-tuning)
-  - [Report Issue or Problem](#report-issue-or-problem)
-  - [Cite](#cite)
-  - [Future Plan](#future-plan)
-  - [Updates](#updates)
-
 # Introduction
 
 **YATO**, an open-source Python library for text analysis. In particular, **YATO** focuses on sequence labeling and sequence classification tasks, including extensive fundamental NLP tasks such as part-of-speech tagging, chunking, NER, CCG supertagging, sentiment analysis, and sentence classification. **YATO** can design both specific RNN-based and Transformer-based through user-friendly configuration and integrating the SOTA pre-trained language models, such as BERT.
@@ -151,45 +127,22 @@ By default, the `LSTM` is a bidirectional LSTM. The `BERT-base` is huggingface's
 
 #### Results for sequence labeling tasks.
 
-| ID | Model          | CoNLL2003 | OntoNotes 5.0 | MSRA  | Ontonotes 4.0 | CCG   |
-| -- | -------------- | --------- | ------------- | ----- | ------------- | ----- |
-| 1  | CCNN+WLSTM+CRF | 91.00     | 81.53         | 92.83 | 74.55         | 93.80 |
-| 2  | BERT-base      | 91.61     | 84.68         | 95.81 | 80.57         | 96.14 |
-| 3  | RoBERTa-base   | 90.23     | 86.28         | 96.02 | 80.94         | 96.16 |
-| 4  | ELECTRA-base   | 91.59     | 85.25         | 96.03 | 90.47         | 96.29 |
+| ID | Model          | CoNLL2003 | OntoNotes 5.0 | 
+| -- | -------------- | --------- | ------------- | 
+| 1  | BERT-base      | 89.70     | 84.05         |
+
 
 #### Results for sequence classification tasks.
 
-| ID | Model        | SST2  | SST5  | ChnSentiCorp |
-| -- | ------------ | ----- | ----- | ------------ |
-| 1  | CCNN+WLSTM   | 87.61 | 43.48 | 88.22        |
-| 2  | BERT-base    | 93.00 | 53.48 | 95.86        |
-| 3  | RoBERTa-base | 92.55 | 51.99 | 96.04        |
-| 4  | ELECTRA-base | 94.72 | 55.11 | 95.96        |
+| ID | Model        | SST2  | 
+| -- | ------------ | ----- | 
+| 1  | BERT-base    | 92.70 | 
+
 
 For more details, you can refer to our papers mentioned below.
 
 The results based on Pretrain Language Model were recorded in [YATO: Yet Another deep learning based Text analysis Open toolkit]()
 
-## Add Handcrafted Features
-
-**YATO** has integrated several SOTA neural character sequence feature extractors: CNN ([Ma .etc, ACL16](http://www.aclweb.org/anthology/P/P16/P16-1101.pdf)), LSTM ([Lample .etc, NAACL16](http://www.aclweb.org/anthology/N/N16/N16-1030.pdf)) and GRU ([Yang .etc, ICLR17](https://arxiv.org/pdf/1703.06345.pdf)). In addition, hand-crafted features have been proven to be important in sequence labeling tasks. **YATO** supports users designing their features such as Capitalization, POS tag, or any other features (green circles in the above figure). Users can configure the self-defined features through a configuration file (feature embedding size, pretrained feature embeddings .etc). The sample of input format is given at [train.cappos.bmes](sample_data/train.cappos.bmes), which includes two hand-crafted features `[POS]` and `[Cap]`. (`[POS]` and `[Cap]` are two examples, you can set your feature any name you want, just follow the format `[xx]` and configure the feature with the same name in the configuration file.)
-Users can configure each feature in configuration file by using.
-
-```Python
-feature=[POS] emb_size=20 emb_dir=%your_pretrained_POS_embedding
-feature=[Cap] emb_size=20 emb_dir=%your_pretrained_Cap_embedding
-```
-
-The feature without pretrained embedding will be randomly initialized.
-
-## Speed
-
-**YATO** is implemented using a fully batch computing approach, making it quite efficient in both model training and decoding.
-
-With the help of GPU (Nvidia RTX 2080ti) and large batches, models built with **YATO** can be decoded efficiently.
-
-![alt text](./readme/speed.png "Decode speed")
 
 ## N best Decoding
 
