@@ -48,7 +48,7 @@ attacks O
 by O
 Iran S-LOC
 and O
-Talabani S-LOC
+Talabani S-PER
 . O
 
 He O
@@ -157,7 +157,7 @@ BAGHDAD S-LOC
 
 United B-ORG
 Nations E-ORG
-relief O
+relief E-ORG
 officials O
 said O
 on O
@@ -326,8 +326,8 @@ in O
 1995 O
 . O
 
-LE B-ORG
-TEMPS E-ORG
+LE S-ORG
+TEMPS S-ORG
 
 - O
 Trade O
@@ -336,7 +336,7 @@ between O
 Tunisia S-LOC
 and O
 the O
-Palestinian S-MISC
+Palestinian B-LOC
 Authority E-ORG
 . O
 
@@ -399,9 +399,9 @@ federal O
 government O
 's O
 auto O
-safety I-ORG
+safety O
 agency O
-Saturday O
+Saturday S-ORG
 launched O
 a O
 $ O
@@ -508,15 +508,15 @@ along O
 some O
 of O
 the O
-nation S-LOC
+nation O
 's O
 busiest O
 interstate O
 highways O
 during O
 the O
-Labor B-ORG
-Day E-MISC
+Labor O
+Day O
 weekend O
 , O
 including O
@@ -536,7 +536,7 @@ the O
 Midwest S-LOC
 and O
 Interstate O
-5 O
+5 E-MISC
 in O
 California S-LOC
 . O
@@ -788,7 +788,7 @@ leveled O
 Rochester S-LOC
 's O
 one-story O
-Lilac B-LOC
+Lilac B-MISC
 Falls E-LOC
 Motel O
 , O
@@ -844,14 +844,14 @@ of O
 the O
 Rochester S-LOC
 Fire O
-Department O
+Department E-ORG
 said O
 . O
 
 Eyewitnesses O
 told O
-Boston S-LOC
-television O
+Boston B-ORG
+television E-ORG
 stations O
 they O
 saw O
@@ -861,7 +861,7 @@ truck O
 parked O
 behind O
 the O
-Lilac B-LOC
+Lilac B-MISC
 Falls E-LOC
 Motel O
 and O
@@ -944,7 +944,7 @@ drag O
 race O
 on O
 a O
-Dallas S-LOC
+Dallas S-ORG
 street O
 turned O
 deadly O
@@ -1072,7 +1072,7 @@ a O
 drag O
 strip O
 by O
-Dallas S-LOC
+Dallas S-ORG
 youths O
 . O
 
@@ -1156,12 +1156,12 @@ Gulf S-LOC
 the O
 aircraft O
 carrier O
-Enterprise S-PER
+Enterprise S-ORG
 was O
 in O
 the O
 eastern B-LOC
-Mediterranean S-LOC
+Mediterranean E-LOC
 with O
 79 O
 more O
@@ -1238,7 +1238,7 @@ steps O
 . O
 " O
 
-Clinton S-PER
+Clinton S-ORG
 said O
 on O
 Saturday O
@@ -1349,7 +1349,7 @@ the O
 weekend O
 . O
 
-Clinton S-PER
+Clinton S-ORG
 said O
 Iraqi S-MISC
 military O
@@ -1434,9 +1434,9 @@ the O
 158 O
 F O
 / O
-A-18 S-ORG
+A-18 O
 , O
-F-14 S-ORG
+F-14 O
 and O
 other O
 fighter O
@@ -1459,9 +1459,9 @@ of O
 30 O
 to O
 40 O
-F-15 S-ORG
+F-15 O
 and O
-F-16 S-ORG
+F-16 O
 fighter O
 planes O
 and O
@@ -1477,8 +1477,8 @@ U.S. S-MISC
 bases O
 in O
 the O
-United B-LOC
-States E-LOC
+United O
+States O
 , O
 they O
 said O
@@ -1527,7 +1527,7 @@ based O
 primarily O
 in O
 Saudi S-LOC
-Arabia S-LOC
+Arabia E-LOC
 and O
 2,000 O
 U.S. S-MISC
@@ -1623,7 +1623,7 @@ girls O
 , O
 Rachel S-PER
 and O
-Severine S-PER
+Severine B-PER
 , O
 have O
 been O
@@ -1725,7 +1725,7 @@ Dutroux E-PER
 case O
 , O
 the O
-paedophile S-ORG
+paedophile S-MISC
 kidnap O
 , O
 sex O
@@ -1810,7 +1810,7 @@ the O
 coastal O
 town O
 of O
-Staoueli S-LOC
+Staoueli S-PER
 . O
 
 But O
@@ -1832,7 +1832,7 @@ wounded O
 20 O
 . O
 
-Liberte S-ORG
+Liberte B-ORG
 newspaper O
 said O
 the O
@@ -1882,7 +1882,7 @@ coastal O
 town O
 of O
 Bou B-LOC
-Haroun E-LOC
+Haroun B-LOC
 , O
 65 O
 km O
@@ -1909,7 +1909,7 @@ Algerian S-MISC
 newspapers O
 quoted O
 the O
-Human I-ORG
+Human B-ORG
 Rights I-ORG
 National I-ORG
 Observatory E-ORG
@@ -1976,7 +1976,7 @@ election O
 in O
 which O
 radical O
-Islamists S-MISC
+Islamists O
 had O
 taken O
 a O
@@ -2027,7 +2027,7 @@ questioning O
 Bonn S-LOC
 's O
 foreign O
-ministry O
+ministry E-ORG
 said O
 on O
 Saturday O
@@ -2044,8 +2044,8 @@ a O
 report O
 in O
 the O
-news O
-weekly O
+news B-ORG
+weekly E-ORG
 Der B-ORG
 Spiegel E-ORG
 , O
@@ -2219,7 +2219,7 @@ Abolhassan B-PER
 Banisadr E-PER
 . O
 
-Banisadr S-ORG
+Banisadr S-PER
 , O
 an O
 avowed O
@@ -2366,7 +2366,7 @@ German S-MISC
 authorities O
 to O
 disregard O
-Banisadr S-ORG
+Banisadr S-PER
 's O
 testimony O
 and O
@@ -2443,13 +2443,13 @@ Wolpe E-PER
 and O
 the O
 Sant B-ORG
-' I-ORG
-Egidio I-ORG
-Community O
+' O
+Egidio B-ORG
+Community E-ORG
 , O
 an O
 Italian S-MISC
-Roman O
+Roman B-MISC
 Catholic O
 organisation O
 which O
@@ -2520,9 +2520,9 @@ presented O
 with O
 an O
 " O
-Artisans O
-for O
-Peace O
+Artisans B-ORG
+for I-ORG
+Peace I-ORG
 " O
 prize O
 by O
@@ -2530,7 +2530,7 @@ the O
 Lay O
 Volunteers O
 ' O
-International O
+International I-ORG
 Organisation O
 on O
 Sunday O
@@ -2586,7 +2586,7 @@ exception O
 " O
 . O
 
-Buyoya S-ORG
+Buyoya S-PER
 on O
 Saturday O
 dismissed O
@@ -2604,7 +2604,7 @@ ruled O
 out O
 talks O
 with O
-Hutu S-MISC
+Hutu S-ORG
 rebels O
 . O
 
@@ -2641,7 +2641,7 @@ coup O
 
 -DOCSTART- O
 
-Nato S-ORG
+Nato S-LOC
 declines O
 comment O
 on O
@@ -2769,7 +2769,7 @@ southern O
 Belgian S-MISC
 town O
 of O
-Chatelet S-LOC
+Chatelet S-ORG
 told O
 Reuters S-ORG
 that O
@@ -2883,7 +2883,7 @@ continuing O
 , O
 " O
 a O
-Liege S-MISC
+Liege S-LOC
 police O
 official O
 told O
@@ -2962,7 +2962,7 @@ their O
 home O
 village O
 of O
-Nandrin S-PER
+Nandrin S-ORG
 . O
 
 They O
@@ -2990,7 +2990,7 @@ Dutroux E-PER
 case O
 , O
 the O
-paedophile S-ORG
+paedophile S-MISC
 kidnap O
 , O
 sex O
@@ -3017,7 +3017,7 @@ film O
 screened O
 at O
 Venice S-LOC
-festival E-MISC
+festival E-ORG
 . O
 
 Vera B-PER
@@ -3087,7 +3087,7 @@ Collins E-PER
 the O
 Irish S-MISC
 Republican I-ORG
-Army O
+Army E-ORG
 's O
 Director O
 of O
@@ -3133,7 +3133,7 @@ Northern B-LOC
 Ireland S-LOC
 . O
 
-Jordan S-ORG
+Jordan S-LOC
 defends O
 his O
 decision O
@@ -3187,7 +3187,7 @@ the O
 time O
 , O
 " O
-Jordan S-ORG
+Jordan S-LOC
 said O
 in O
 a O
@@ -3221,7 +3221,7 @@ whose O
 film O
 " O
 The O
-Crying S-PER
+Crying O
 Game O
 " O
 also O
@@ -3255,7 +3255,7 @@ He O
 developed O
 techniques O
 of O
-guerilla O
+guerilla S-MISC
 warfare O
 later O
 copied O
@@ -3264,7 +3264,7 @@ independence O
 movements O
 around O
 the O
-world O
+world S-LOC
 , O
 from O
 Mao B-PER
@@ -3316,11 +3316,11 @@ peace O
 . O
 " O
 
-Leeson B-PER
+Leeson S-PER
 , O
 the O
 Northern B-LOC
-Ireland-born E-LOC
+Ireland-born S-LOC
 actor O
 who O
 was O
@@ -3336,9 +3336,9 @@ his O
 performance O
 in O
 " O
-Schindler S-PER
+Schindler S-LOC
 's I-ORG
-List E-MISC
+List E-ORG
 " O
 , O
 plays O
@@ -3373,7 +3373,7 @@ Kiernan E-PER
 , O
 played O
 by O
-Roberts E-PER
+Roberts S-PER
 . O
 
 Much O
@@ -3427,7 +3427,7 @@ he O
 maintained O
 " O
 , O
-Jordan S-PER
+Jordan S-LOC
 said O
 he O
 made O
@@ -3624,7 +3624,7 @@ Dhaka S-LOC
 Stock O
 Exchange E-ORG
 ( O
-DSE S-ORG
+DSE S-MISC
 ) O
 may O
 remain O
@@ -3727,7 +3727,7 @@ like O
 IDLC S-ORG
 , O
 Bangladesh S-LOC
-Lamps O
+Lamps E-ORG
 , O
 Chittagong S-LOC
 Cement E-ORG
@@ -3790,7 +3790,7 @@ Thursday O
 . O
 
 -- O
-Dhaka S-LOC
-Newsroom O
+Dhaka B-ORG
+Newsroom E-ORG
 880-2-506363 O
 

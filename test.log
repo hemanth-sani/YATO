@@ -1,0 +1,1011 @@
+2024-04-14 16:24:35,358 - test - INFO - Training model...
+2024-04-14 16:24:47,171 - test - INFO - Dev: time: 0.32s, speed: 347.72st/s; acc: 0.8011, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 16:24:47,906 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.8712_p-1.0000_r0.0000_f-1.0000.pth
+2024-04-14 16:24:49,169 - test - INFO - Test: time: 0.73s, speed: 254.49st/s; acc: 0.8712, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 16:24:53,860 - test - INFO - Dev: time: 0.31s, speed: 361.19st/s; acc: 0.8793, p: 0.3318, r: 0.3524, f: 0.3418 
+2024-04-14 16:24:54,596 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 16:24:55,801 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 16:24:55,803 - test - INFO - Test: time: 0.74s, speed: 254.32st/s; acc: 0.9175, p: 0.4507, r: 0.4364, f: 0.4435 
+2024-04-14 16:25:00,376 - test - INFO - Dev: time: 0.31s, speed: 361.53st/s; acc: 0.9033, p: 0.5123, r: 0.4952, f: 0.5036 
+2024-04-14 16:25:01,112 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 16:25:02,291 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 16:25:02,292 - test - INFO - Test: time: 0.74s, speed: 254.37st/s; acc: 0.9332, p: 0.6282, r: 0.5665, f: 0.5957 
+2024-04-14 16:25:06,930 - test - INFO - Dev: time: 0.31s, speed: 360.56st/s; acc: 0.9163, p: 0.6089, r: 0.5857, f: 0.5971 
+2024-04-14 16:25:07,683 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 16:25:08,888 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 16:25:08,889 - test - INFO - Test: time: 0.75s, speed: 248.65st/s; acc: 0.9407, p: 0.6472, r: 0.6098, f: 0.6280 
+2024-04-14 16:25:13,534 - test - INFO - Dev: time: 0.31s, speed: 360.22st/s; acc: 0.9403, p: 0.7009, r: 0.7143, f: 0.7075 
+2024-04-14 16:25:14,272 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 16:25:15,417 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 16:25:15,418 - test - INFO - Test: time: 0.74s, speed: 253.49st/s; acc: 0.9482, p: 0.6715, r: 0.6676, f: 0.6696 
+2024-04-14 16:25:20,090 - test - INFO - Dev: time: 0.31s, speed: 360.82st/s; acc: 0.9554, p: 0.8088, r: 0.7857, f: 0.7971 
+2024-04-14 16:25:20,830 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 16:25:21,987 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 16:25:21,988 - test - INFO - Test: time: 0.74s, speed: 253.53st/s; acc: 0.9554, p: 0.7591, r: 0.7197, f: 0.7389 
+2024-04-14 16:25:26,632 - test - INFO - Dev: time: 0.31s, speed: 361.23st/s; acc: 0.9561, p: 0.7840, r: 0.7952, f: 0.7896 
+2024-04-14 16:25:27,371 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9560_p0.7335_r0.7081_f0.7206.pth
+2024-04-14 16:25:28,458 - test - INFO - Test: time: 0.74s, speed: 253.24st/s; acc: 0.9560, p: 0.7335, r: 0.7081, f: 0.7206 
+2024-04-14 16:25:33,105 - test - INFO - Dev: time: 0.31s, speed: 361.38st/s; acc: 0.9678, p: 0.8498, r: 0.8619, f: 0.8558 
+2024-04-14 16:25:33,856 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 16:25:35,032 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 16:25:35,033 - test - INFO - Test: time: 0.75s, speed: 249.24st/s; acc: 0.9596, p: 0.7559, r: 0.7428, f: 0.7493 
+2024-04-14 16:25:39,725 - test - INFO - Dev: time: 0.31s, speed: 361.75st/s; acc: 0.9588, p: 0.8182, r: 0.8143, f: 0.8162 
+2024-04-14 16:25:40,460 - test - INFO - Test: time: 0.73s, speed: 254.74st/s; acc: 0.9629, p: 0.7887, r: 0.7659, f: 0.7771 
+2024-04-14 16:25:45,130 - test - INFO - Dev: time: 0.31s, speed: 362.69st/s; acc: 0.9602, p: 0.8199, r: 0.8238, f: 0.8219 
+2024-04-14 16:25:45,863 - test - INFO - Test: time: 0.73s, speed: 255.14st/s; acc: 0.9607, p: 0.7699, r: 0.7543, f: 0.7620 
+2024-04-14 16:25:45,864 - test - INFO - Best Test F1 Score: 0.749271137026239, Best Validation F1 Score: 0.855791962174941, Best Test F1 Score Epoch: 7 
+2024-04-14 23:44:49,994 - test - INFO - Training model...
+2024-04-14 23:45:03,121 - test - INFO - Dev: time: 0.34s, speed: 327.48st/s; acc: 0.8011, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 23:45:03,975 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.8712_p-1.0000_r0.0000_f-1.0000.pth
+2024-04-14 23:45:03,976 - test - INFO - Test: time: 0.85s, speed: 218.82st/s; acc: 0.8712, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 23:45:08,752 - test - INFO - Dev: time: 0.31s, speed: 361.77st/s; acc: 0.8793, p: 0.3318, r: 0.3524, f: 0.3418 
+2024-04-14 23:45:09,487 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 23:45:09,488 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 23:45:09,489 - test - INFO - Test: time: 0.74s, speed: 254.53st/s; acc: 0.9175, p: 0.4507, r: 0.4364, f: 0.4435 
+2024-04-14 23:45:14,068 - test - INFO - Dev: time: 0.31s, speed: 361.94st/s; acc: 0.9033, p: 0.5123, r: 0.4952, f: 0.5036 
+2024-04-14 23:45:14,805 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 23:45:14,806 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 23:45:14,807 - test - INFO - Test: time: 0.74s, speed: 253.88st/s; acc: 0.9332, p: 0.6282, r: 0.5665, f: 0.5957 
+2024-04-14 23:45:19,499 - test - INFO - Dev: time: 0.36s, speed: 311.16st/s; acc: 0.9163, p: 0.6089, r: 0.5857, f: 0.5971 
+2024-04-14 23:45:20,425 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 23:45:20,426 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 23:45:20,427 - test - INFO - Test: time: 0.93s, speed: 202.92st/s; acc: 0.9407, p: 0.6472, r: 0.6098, f: 0.6280 
+2024-04-14 23:45:25,100 - test - INFO - Dev: time: 0.31s, speed: 359.78st/s; acc: 0.9403, p: 0.7009, r: 0.7143, f: 0.7075 
+2024-04-14 23:45:25,837 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 23:45:25,838 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 23:45:25,839 - test - INFO - Test: time: 0.74s, speed: 253.80st/s; acc: 0.9482, p: 0.6715, r: 0.6676, f: 0.6696 
+2024-04-14 23:45:30,515 - test - INFO - Dev: time: 0.31s, speed: 361.70st/s; acc: 0.9554, p: 0.8088, r: 0.7857, f: 0.7971 
+2024-04-14 23:45:31,249 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 23:45:31,251 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 23:45:31,251 - test - INFO - Test: time: 0.73s, speed: 254.56st/s; acc: 0.9554, p: 0.7591, r: 0.7197, f: 0.7389 
+2024-04-14 23:45:35,897 - test - INFO - Dev: time: 0.31s, speed: 361.53st/s; acc: 0.9561, p: 0.7840, r: 0.7952, f: 0.7896 
+2024-04-14 23:45:36,640 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9560_p0.7335_r0.7081_f0.7206.pth
+2024-04-14 23:45:36,641 - test - INFO - Test: time: 0.74s, speed: 251.78st/s; acc: 0.9560, p: 0.7335, r: 0.7081, f: 0.7206 
+2024-04-14 23:45:41,285 - test - INFO - Dev: time: 0.31s, speed: 360.77st/s; acc: 0.9678, p: 0.8498, r: 0.8619, f: 0.8558 
+2024-04-14 23:45:42,021 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_dataacc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 23:45:42,022 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_dataacc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 23:45:42,022 - test - INFO - Test: time: 0.74s, speed: 254.53st/s; acc: 0.9596, p: 0.7559, r: 0.7428, f: 0.7493 
+2024-04-14 23:45:46,705 - test - INFO - Dev: time: 0.31s, speed: 361.97st/s; acc: 0.9588, p: 0.8182, r: 0.8143, f: 0.8162 
+2024-04-14 23:45:47,542 - test - INFO - Test: time: 0.84s, speed: 223.54st/s; acc: 0.9629, p: 0.7887, r: 0.7659, f: 0.7771 
+2024-04-14 23:45:52,427 - test - INFO - Dev: time: 0.31s, speed: 361.06st/s; acc: 0.9602, p: 0.8199, r: 0.8238, f: 0.8219 
+2024-04-14 23:45:53,164 - test - INFO - Test: time: 0.74s, speed: 253.87st/s; acc: 0.9607, p: 0.7699, r: 0.7543, f: 0.7620 
+2024-04-14 23:45:53,164 - test - INFO - Best Test F1 Score: 0.749271137026239, Best Validation F1 Score: 0.855791962174941, Best Test F1 Score Epoch: 7 
+2024-04-14 23:57:11,986 - test - INFO - Training model...
+2024-04-14 23:57:11,986 - test - INFO - Training model...
+2024-04-14 23:57:17,176 - test - INFO - Dev: time: 0.31s, speed: 360.21st/s; acc: 0.8011, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 23:57:17,176 - test - INFO - Dev: time: 0.31s, speed: 360.21st/s; acc: 0.8011, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 23:57:17,940 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.8712_p-1.0000_r0.0000_f-1.0000.pth
+2024-04-14 23:57:17,940 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.8712_p-1.0000_r0.0000_f-1.0000.pth
+2024-04-14 23:57:19,159 - test - INFO - Test: time: 0.76s, speed: 244.60st/s; acc: 0.8712, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 23:57:19,159 - test - INFO - Test: time: 0.76s, speed: 244.60st/s; acc: 0.8712, p: -1.0000, r: 0.0000, f: -1.0000 
+2024-04-14 23:57:23,873 - test - INFO - Dev: time: 0.31s, speed: 361.13st/s; acc: 0.8793, p: 0.3318, r: 0.3524, f: 0.3418 
+2024-04-14 23:57:23,873 - test - INFO - Dev: time: 0.31s, speed: 361.13st/s; acc: 0.8793, p: 0.3318, r: 0.3524, f: 0.3418 
+2024-04-14 23:57:24,690 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 23:57:24,690 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 23:57:25,675 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 23:57:25,675 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9175_p0.4507_r0.4364_f0.4435.pth
+2024-04-14 23:57:25,677 - test - INFO - Test: time: 0.82s, speed: 229.10st/s; acc: 0.9175, p: 0.4507, r: 0.4364, f: 0.4435 
+2024-04-14 23:57:25,677 - test - INFO - Test: time: 0.82s, speed: 229.10st/s; acc: 0.9175, p: 0.4507, r: 0.4364, f: 0.4435 
+2024-04-14 23:57:30,261 - test - INFO - Dev: time: 0.31s, speed: 360.66st/s; acc: 0.9033, p: 0.5123, r: 0.4952, f: 0.5036 
+2024-04-14 23:57:30,261 - test - INFO - Dev: time: 0.31s, speed: 360.66st/s; acc: 0.9033, p: 0.5123, r: 0.4952, f: 0.5036 
+2024-04-14 23:57:31,001 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 23:57:31,001 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 23:57:32,189 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 23:57:32,189 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9332_p0.6282_r0.5665_f0.5957.pth
+2024-04-14 23:57:32,191 - test - INFO - Test: time: 0.74s, speed: 252.86st/s; acc: 0.9332, p: 0.6282, r: 0.5665, f: 0.5957 
+2024-04-14 23:57:32,191 - test - INFO - Test: time: 0.74s, speed: 252.86st/s; acc: 0.9332, p: 0.6282, r: 0.5665, f: 0.5957 
+2024-04-14 23:57:36,899 - test - INFO - Dev: time: 0.35s, speed: 322.44st/s; acc: 0.9163, p: 0.6089, r: 0.5857, f: 0.5971 
+2024-04-14 23:57:36,899 - test - INFO - Dev: time: 0.35s, speed: 322.44st/s; acc: 0.9163, p: 0.6089, r: 0.5857, f: 0.5971 
+2024-04-14 23:57:37,637 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 23:57:37,637 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 23:57:38,729 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 23:57:38,729 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9407_p0.6472_r0.6098_f0.6280.pth
+2024-04-14 23:57:38,730 - test - INFO - Test: time: 0.74s, speed: 253.67st/s; acc: 0.9407, p: 0.6472, r: 0.6098, f: 0.6280 
+2024-04-14 23:57:38,730 - test - INFO - Test: time: 0.74s, speed: 253.67st/s; acc: 0.9407, p: 0.6472, r: 0.6098, f: 0.6280 
+2024-04-14 23:57:43,694 - test - INFO - Dev: time: 0.38s, speed: 298.04st/s; acc: 0.9403, p: 0.7009, r: 0.7143, f: 0.7075 
+2024-04-14 23:57:43,694 - test - INFO - Dev: time: 0.38s, speed: 298.04st/s; acc: 0.9403, p: 0.7009, r: 0.7143, f: 0.7075 
+2024-04-14 23:57:44,437 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 23:57:44,437 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 23:57:45,709 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 23:57:45,709 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9482_p0.6715_r0.6676_f0.6696.pth
+2024-04-14 23:57:45,711 - test - INFO - Test: time: 0.74s, speed: 252.15st/s; acc: 0.9482, p: 0.6715, r: 0.6676, f: 0.6696 
+2024-04-14 23:57:45,711 - test - INFO - Test: time: 0.74s, speed: 252.15st/s; acc: 0.9482, p: 0.6715, r: 0.6676, f: 0.6696 
+2024-04-14 23:57:50,406 - test - INFO - Dev: time: 0.32s, speed: 357.47st/s; acc: 0.9554, p: 0.8088, r: 0.7857, f: 0.7971 
+2024-04-14 23:57:50,406 - test - INFO - Dev: time: 0.32s, speed: 357.47st/s; acc: 0.9554, p: 0.8088, r: 0.7857, f: 0.7971 
+2024-04-14 23:57:51,152 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 23:57:51,152 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 23:57:52,355 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 23:57:52,355 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9554_p0.7591_r0.7197_f0.7389.pth
+2024-04-14 23:57:52,358 - test - INFO - Test: time: 0.75s, speed: 251.72st/s; acc: 0.9554, p: 0.7591, r: 0.7197, f: 0.7389 
+2024-04-14 23:57:52,358 - test - INFO - Test: time: 0.75s, speed: 251.72st/s; acc: 0.9554, p: 0.7591, r: 0.7197, f: 0.7389 
+2024-04-14 23:57:57,312 - test - INFO - Dev: time: 0.33s, speed: 340.28st/s; acc: 0.9561, p: 0.7840, r: 0.7952, f: 0.7896 
+2024-04-14 23:57:57,312 - test - INFO - Dev: time: 0.33s, speed: 340.28st/s; acc: 0.9561, p: 0.7840, r: 0.7952, f: 0.7896 
+2024-04-14 23:57:58,123 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9560_p0.7335_r0.7081_f0.7206.pth
+2024-04-14 23:57:58,123 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9560_p0.7335_r0.7081_f0.7206.pth
+2024-04-14 23:57:59,368 - test - INFO - Test: time: 0.81s, speed: 230.80st/s; acc: 0.9560, p: 0.7335, r: 0.7081, f: 0.7206 
+2024-04-14 23:57:59,368 - test - INFO - Test: time: 0.81s, speed: 230.80st/s; acc: 0.9560, p: 0.7335, r: 0.7081, f: 0.7206 
+2024-04-14 23:58:04,112 - test - INFO - Dev: time: 0.31s, speed: 359.26st/s; acc: 0.9678, p: 0.8498, r: 0.8619, f: 0.8558 
+2024-04-14 23:58:04,112 - test - INFO - Dev: time: 0.31s, speed: 359.26st/s; acc: 0.9678, p: 0.8498, r: 0.8619, f: 0.8558 
+2024-04-14 23:58:04,890 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 23:58:04,890 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 23:58:06,077 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 23:58:06,077 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9596_p0.7559_r0.7428_f0.7493.pth
+2024-04-14 23:58:06,078 - test - INFO - Test: time: 0.78s, speed: 241.04st/s; acc: 0.9596, p: 0.7559, r: 0.7428, f: 0.7493 
+2024-04-14 23:58:06,078 - test - INFO - Test: time: 0.78s, speed: 241.04st/s; acc: 0.9596, p: 0.7559, r: 0.7428, f: 0.7493 
+2024-04-14 23:58:10,786 - test - INFO - Dev: time: 0.31s, speed: 359.91st/s; acc: 0.9588, p: 0.8182, r: 0.8143, f: 0.8162 
+2024-04-14 23:58:10,786 - test - INFO - Dev: time: 0.31s, speed: 359.91st/s; acc: 0.9588, p: 0.8182, r: 0.8143, f: 0.8162 
+2024-04-14 23:58:11,528 - test - INFO - Test: time: 0.74s, speed: 252.63st/s; acc: 0.9629, p: 0.7887, r: 0.7659, f: 0.7771 
+2024-04-14 23:58:11,528 - test - INFO - Test: time: 0.74s, speed: 252.63st/s; acc: 0.9629, p: 0.7887, r: 0.7659, f: 0.7771 
+2024-04-14 23:58:16,417 - test - INFO - Dev: time: 0.39s, speed: 289.58st/s; acc: 0.9602, p: 0.8199, r: 0.8238, f: 0.8219 
+2024-04-14 23:58:16,417 - test - INFO - Dev: time: 0.39s, speed: 289.58st/s; acc: 0.9602, p: 0.8199, r: 0.8238, f: 0.8219 
+2024-04-14 23:58:17,220 - test - INFO - Test: time: 0.80s, speed: 233.16st/s; acc: 0.9607, p: 0.7699, r: 0.7543, f: 0.7620 
+2024-04-14 23:58:17,220 - test - INFO - Test: time: 0.80s, speed: 233.16st/s; acc: 0.9607, p: 0.7699, r: 0.7543, f: 0.7620 
+2024-04-14 23:58:17,221 - test - INFO - Best Test F1 Score: 0.749271137026239, Best Validation F1 Score: 0.855791962174941, Best Test F1 Score Epoch: 7 
+2024-04-14 23:58:17,221 - test - INFO - Best Test F1 Score: 0.749271137026239, Best Validation F1 Score: 0.855791962174941, Best Test F1 Score Epoch: 7 
+2024-04-15 14:53:23,816 - test - INFO - Training model...
+2024-04-15 14:53:48,570 - test - INFO -      Instance: 2000; Time: 20.22s; loss: 176.5522;
+2024-04-15 14:54:07,703 - test - INFO -      Instance: 4000; Time: 19.13s; loss: 149.4632;
+2024-04-15 14:54:08,553 - test - INFO - Dev: time: 0.70s speed: 297.60st/s; acc: 0.5323; f: 0.5090;
+2024-04-15 14:54:09,250 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 14:54:10,537 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 14:54:10,538 - test - INFO - Test: time: 0.70s, speed: 290.51st/s; acc: 0.6716, p: 0.6817, r: 0.6311, f: 0.6411
+2024-04-15 14:54:30,537 - test - INFO -      Instance: 2000; Time: 20.00s; loss: 118.8626;
+2024-04-15 14:54:49,525 - test - INFO -      Instance: 4000; Time: 18.99s; loss: 113.9749;
+2024-04-15 14:54:50,336 - test - INFO - Dev: time: 0.68s speed: 297.67st/s; acc: 0.4925; f: 0.4846;
+2024-04-15 14:54:51,033 - test - INFO - Test: time: 0.70s, speed: 290.41st/s; acc: 0.7214, p: 0.7368, r: 0.7404, f: 0.7018
+2024-04-15 14:55:10,576 - test - INFO -      Instance: 2000; Time: 19.54s; loss: 80.6135;
+2024-04-15 14:55:29,621 - test - INFO -      Instance: 4000; Time: 19.05s; loss: 76.2640;
+2024-04-15 14:55:30,452 - test - INFO - Dev: time: 0.68s speed: 298.57st/s; acc: 0.5323; f: 0.5272;
+2024-04-15 14:55:31,146 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.8905_p0.8889_r0.9034_f0.8933.pth
+2024-04-15 14:55:32,649 - test - INFO - Test: time: 0.69s, speed: 291.65st/s; acc: 0.8905, p: 0.8889, r: 0.9034, f: 0.8933
+2024-04-15 14:55:51,738 - test - INFO -      Instance: 2000; Time: 19.09s; loss: 50.5342;
+2024-04-15 14:56:11,497 - test - INFO -      Instance: 4000; Time: 19.76s; loss: 50.4661;
+2024-04-15 14:56:12,305 - test - INFO - Dev: time: 0.68s speed: 298.42st/s; acc: 0.5572; f: 0.5547;
+2024-04-15 14:56:13,003 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 14:56:14,255 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 14:56:14,257 - test - INFO - Test: time: 0.70s, speed: 290.29st/s; acc: 0.9104, p: 0.9026, r: 0.9297, f: 0.9132
+2024-04-15 14:56:32,817 - test - INFO -      Instance: 2000; Time: 18.56s; loss: 30.6586;
+2024-04-15 14:56:51,760 - test - INFO -      Instance: 4000; Time: 18.94s; loss: 30.8606;
+2024-04-15 14:56:52,586 - test - INFO - Dev: time: 0.68s speed: 298.25st/s; acc: 0.5622; f: 0.5689;
+2024-04-15 14:56:53,281 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 14:56:54,477 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 14:56:54,478 - test - INFO - Test: time: 0.69s, speed: 291.50st/s; acc: 0.9403, p: 0.9383, r: 0.9530, f: 0.9442
+2024-04-15 14:57:12,962 - test - INFO -      Instance: 2000; Time: 18.48s; loss: 16.5714;
+2024-04-15 14:57:31,731 - test - INFO -      Instance: 4000; Time: 18.77s; loss: 19.9145;
+2024-04-15 14:57:32,536 - test - INFO - Dev: time: 0.68s speed: 298.05st/s; acc: 0.5174; f: 0.5175;
+2024-04-15 14:57:33,231 - test - INFO - Test: time: 0.69s, speed: 291.46st/s; acc: 0.9652, p: 0.9660, r: 0.9742, f: 0.9689
+2024-04-15 14:57:52,654 - test - INFO -      Instance: 2000; Time: 19.42s; loss: 17.1701;
+2024-04-15 14:58:12,318 - test - INFO -      Instance: 4000; Time: 19.66s; loss: 13.4098;
+2024-04-15 14:58:13,123 - test - INFO - Dev: time: 0.68s speed: 297.03st/s; acc: 0.5174; f: 0.5181;
+2024-04-15 14:58:13,831 - test - INFO - Test: time: 0.71s, speed: 285.79st/s; acc: 0.9900, p: 0.9907, r: 0.9926, f: 0.9915
+2024-04-15 14:58:32,491 - test - INFO -      Instance: 2000; Time: 18.66s; loss: 9.7385;
+2024-04-15 14:58:51,076 - test - INFO -      Instance: 4000; Time: 18.58s; loss: 7.2472;
+2024-04-15 14:58:51,893 - test - INFO - Dev: time: 0.68s speed: 297.02st/s; acc: 0.4826; f: 0.4849;
+2024-04-15 14:58:52,591 - test - INFO - Test: time: 0.70s, speed: 290.11st/s; acc: 0.9701, p: 0.9779, r: 0.9721, f: 0.9739
+2024-04-15 14:59:11,948 - test - INFO -      Instance: 2000; Time: 19.36s; loss: 10.8484;
+2024-04-15 14:59:30,731 - test - INFO -      Instance: 4000; Time: 18.78s; loss: 6.3073;
+2024-04-15 14:59:31,540 - test - INFO - Dev: time: 0.68s speed: 296.56st/s; acc: 0.5473; f: 0.5548;
+2024-04-15 14:59:32,238 - test - INFO - Test: time: 0.70s, speed: 290.19st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 14:59:50,896 - test - INFO -      Instance: 2000; Time: 18.66s; loss: 4.3336;
+2024-04-15 15:00:09,581 - test - INFO -      Instance: 4000; Time: 18.69s; loss: 6.8117;
+2024-04-15 15:00:10,414 - test - INFO - Dev: time: 0.68s speed: 297.34st/s; acc: 0.5274; f: 0.5244;
+2024-04-15 15:00:11,111 - test - INFO - Test: time: 0.70s, speed: 290.48st/s; acc: 0.9950, p: 0.9962, r: 0.9951, f: 0.9956
+2024-04-15 15:00:11,111 - test - INFO - Best Test F1 Score: 0.9441933867224709, Best Validation F1 Score: 0.5688652164950947, Best Test F1 Score Epoch: 4 
+2024-04-15 15:05:13,887 - test - INFO - Training model...
+2024-04-15 15:05:36,040 - test - INFO -      Instance: 2000; Time: 20.01s; loss: 176.5522;
+2024-04-15 15:05:55,382 - test - INFO -      Instance: 4000; Time: 19.34s; loss: 149.4632;
+2024-04-15 15:05:56,312 - test - INFO - Dev: time: 0.79s speed: 257.61st/s; acc: 0.5323; f: 0.5090;
+2024-04-15 15:05:57,073 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 15:05:57,074 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 15:05:57,075 - test - INFO - Test: time: 0.76s, speed: 266.07st/s; acc: 0.6716, p: 0.6817, r: 0.6311, f: 0.6411
+2024-04-15 15:06:16,931 - test - INFO -      Instance: 2000; Time: 19.86s; loss: 118.8626;
+2024-04-15 15:06:36,528 - test - INFO -      Instance: 4000; Time: 19.60s; loss: 113.9749;
+2024-04-15 15:06:37,545 - test - INFO - Dev: time: 0.89s speed: 228.07st/s; acc: 0.4925; f: 0.4846;
+2024-04-15 15:06:38,461 - test - INFO - Test: time: 0.92s, speed: 220.78st/s; acc: 0.7214, p: 0.7368, r: 0.7404, f: 0.7018
+2024-04-15 15:06:57,181 - test - INFO -      Instance: 2000; Time: 18.72s; loss: 80.6135;
+2024-04-15 15:07:15,965 - test - INFO -      Instance: 4000; Time: 18.78s; loss: 76.2640;
+2024-04-15 15:07:16,795 - test - INFO - Dev: time: 0.68s speed: 298.53st/s; acc: 0.5323; f: 0.5272;
+2024-04-15 15:07:17,491 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.8905_p0.8889_r0.9034_f0.8933.pth
+2024-04-15 15:07:17,492 - test - INFO - Test: time: 0.70s, speed: 290.90st/s; acc: 0.8905, p: 0.8889, r: 0.9034, f: 0.8933
+2024-04-15 15:07:36,306 - test - INFO -      Instance: 2000; Time: 18.81s; loss: 50.5342;
+2024-04-15 15:07:55,272 - test - INFO -      Instance: 4000; Time: 18.97s; loss: 50.4661;
+2024-04-15 15:07:56,079 - test - INFO - Dev: time: 0.68s speed: 299.19st/s; acc: 0.5572; f: 0.5547;
+2024-04-15 15:07:56,775 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 15:07:56,776 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 15:07:56,777 - test - INFO - Test: time: 0.70s, speed: 290.93st/s; acc: 0.9104, p: 0.9026, r: 0.9297, f: 0.9132
+2024-04-15 15:08:15,316 - test - INFO -      Instance: 2000; Time: 18.54s; loss: 30.6586;
+2024-04-15 15:08:34,396 - test - INFO -      Instance: 4000; Time: 19.08s; loss: 30.8606;
+2024-04-15 15:08:35,222 - test - INFO - Dev: time: 0.68s speed: 299.06st/s; acc: 0.5622; f: 0.5689;
+2024-04-15 15:08:35,916 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 15:08:35,917 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 15:08:35,917 - test - INFO - Test: time: 0.69s, speed: 291.71st/s; acc: 0.9403, p: 0.9383, r: 0.9530, f: 0.9442
+2024-04-15 15:08:54,758 - test - INFO -      Instance: 2000; Time: 18.84s; loss: 16.5714;
+2024-04-15 15:09:13,829 - test - INFO -      Instance: 4000; Time: 19.07s; loss: 19.9145;
+2024-04-15 15:09:14,637 - test - INFO - Dev: time: 0.68s speed: 296.18st/s; acc: 0.5174; f: 0.5175;
+2024-04-15 15:09:15,330 - test - INFO - Test: time: 0.69s, speed: 292.10st/s; acc: 0.9652, p: 0.9660, r: 0.9742, f: 0.9689
+2024-04-15 15:09:33,767 - test - INFO -      Instance: 2000; Time: 18.44s; loss: 17.1701;
+2024-04-15 15:09:52,919 - test - INFO -      Instance: 4000; Time: 19.15s; loss: 13.4098;
+2024-04-15 15:09:53,718 - test - INFO - Dev: time: 0.67s speed: 300.12st/s; acc: 0.5174; f: 0.5181;
+2024-04-15 15:09:54,410 - test - INFO - Test: time: 0.69s, speed: 292.45st/s; acc: 0.9900, p: 0.9907, r: 0.9926, f: 0.9915
+2024-04-15 15:10:13,206 - test - INFO -      Instance: 2000; Time: 18.79s; loss: 9.7385;
+2024-04-15 15:10:32,286 - test - INFO -      Instance: 4000; Time: 19.08s; loss: 7.2472;
+2024-04-15 15:10:33,097 - test - INFO - Dev: time: 0.67s speed: 300.00st/s; acc: 0.4826; f: 0.4849;
+2024-04-15 15:10:33,789 - test - INFO - Test: time: 0.69s, speed: 292.59st/s; acc: 0.9701, p: 0.9779, r: 0.9721, f: 0.9739
+2024-04-15 15:10:52,602 - test - INFO -      Instance: 2000; Time: 18.81s; loss: 10.8484;
+2024-04-15 15:11:12,035 - test - INFO -      Instance: 4000; Time: 19.43s; loss: 6.3073;
+2024-04-15 15:11:12,839 - test - INFO - Dev: time: 0.68s speed: 298.83st/s; acc: 0.5473; f: 0.5548;
+2024-04-15 15:11:13,536 - test - INFO - Test: time: 0.70s, speed: 290.53st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 15:11:32,438 - test - INFO -      Instance: 2000; Time: 18.90s; loss: 4.3336;
+2024-04-15 15:11:51,328 - test - INFO -      Instance: 4000; Time: 18.89s; loss: 6.8117;
+2024-04-15 15:11:52,373 - test - INFO - Dev: time: 0.89s speed: 226.42st/s; acc: 0.5274; f: 0.5244;
+2024-04-15 15:11:53,222 - test - INFO - Test: time: 0.85s, speed: 238.23st/s; acc: 0.9950, p: 0.9962, r: 0.9951, f: 0.9956
+2024-04-15 15:11:53,223 - test - INFO - Best Test F1 Score: 0.9441933867224707, Best Validation F1 Score: 0.5688652164950947, Best Test F1 Score Epoch: 4 
+2024-04-15 15:17:03,475 - test - INFO - Training model...
+2024-04-15 15:17:27,548 - test - INFO -      Instance: 2000; Time: 20.36s; loss: 176.5522;
+2024-04-15 15:17:46,313 - test - INFO -      Instance: 4000; Time: 18.76s; loss: 149.4632;
+2024-04-15 15:17:47,283 - test - INFO - Dev: time: 0.83s speed: 244.69st/s; acc: 0.5323; f: 0.5090;
+2024-04-15 15:17:47,977 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 15:17:49,217 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 15:17:49,218 - test - INFO - Test: time: 0.69s, speed: 291.64st/s; acc: 0.6716, p: 0.6817, r: 0.6311, f: 0.6411
+2024-04-15 15:18:08,103 - test - INFO -      Instance: 2000; Time: 18.88s; loss: 118.8626;
+2024-04-15 15:18:26,897 - test - INFO -      Instance: 4000; Time: 18.79s; loss: 113.9749;
+2024-04-15 15:18:27,705 - test - INFO - Dev: time: 0.68s speed: 298.14st/s; acc: 0.4925; f: 0.4846;
+2024-04-15 15:18:28,402 - test - INFO - Test: time: 0.70s, speed: 290.18st/s; acc: 0.7214, p: 0.7368, r: 0.7404, f: 0.7018
+2024-04-15 15:18:47,823 - test - INFO -      Instance: 2000; Time: 19.42s; loss: 80.6135;
+2024-04-15 15:19:07,706 - test - INFO -      Instance: 4000; Time: 19.88s; loss: 76.2640;
+2024-04-15 15:19:08,535 - test - INFO - Dev: time: 0.68s speed: 298.57st/s; acc: 0.5323; f: 0.5272;
+2024-04-15 15:19:09,229 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.8905_p0.8889_r0.9034_f0.8933.pth
+2024-04-15 15:19:10,440 - test - INFO - Test: time: 0.69s, speed: 292.05st/s; acc: 0.8905, p: 0.8889, r: 0.9034, f: 0.8933
+2024-04-15 15:19:29,493 - test - INFO -      Instance: 2000; Time: 19.05s; loss: 50.5342;
+2024-04-15 15:19:48,967 - test - INFO -      Instance: 4000; Time: 19.47s; loss: 50.4661;
+2024-04-15 15:19:49,773 - test - INFO - Dev: time: 0.68s speed: 299.07st/s; acc: 0.5572; f: 0.5547;
+2024-04-15 15:19:50,466 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 15:19:51,673 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 15:19:51,674 - test - INFO - Test: time: 0.69s, speed: 291.97st/s; acc: 0.9104, p: 0.9026, r: 0.9297, f: 0.9132
+2024-04-15 15:20:10,353 - test - INFO -      Instance: 2000; Time: 18.68s; loss: 30.6586;
+2024-04-15 15:20:29,470 - test - INFO -      Instance: 4000; Time: 19.12s; loss: 30.8606;
+2024-04-15 15:20:30,506 - test - INFO - Dev: time: 0.89s speed: 227.43st/s; acc: 0.5622; f: 0.5689;
+2024-04-15 15:20:31,422 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 15:20:32,663 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 15:20:32,665 - test - INFO - Test: time: 0.92s, speed: 220.70st/s; acc: 0.9403, p: 0.9383, r: 0.9530, f: 0.9442
+2024-04-15 15:20:52,445 - test - INFO -      Instance: 2000; Time: 19.78s; loss: 16.5714;
+2024-04-15 15:21:11,665 - test - INFO -      Instance: 4000; Time: 19.22s; loss: 19.9145;
+2024-04-15 15:21:12,470 - test - INFO - Dev: time: 0.68s speed: 298.17st/s; acc: 0.5174; f: 0.5175;
+2024-04-15 15:21:13,164 - test - INFO - Test: time: 0.69s, speed: 291.72st/s; acc: 0.9652, p: 0.9660, r: 0.9742, f: 0.9689
+2024-04-15 15:21:31,553 - test - INFO -      Instance: 2000; Time: 18.39s; loss: 17.1701;
+2024-04-15 15:21:50,454 - test - INFO -      Instance: 4000; Time: 18.90s; loss: 13.4098;
+2024-04-15 15:21:51,255 - test - INFO - Dev: time: 0.68s speed: 298.92st/s; acc: 0.5174; f: 0.5181;
+2024-04-15 15:21:51,950 - test - INFO - Test: time: 0.70s, speed: 291.03st/s; acc: 0.9900, p: 0.9907, r: 0.9926, f: 0.9915
+2024-04-15 15:22:10,561 - test - INFO -      Instance: 2000; Time: 18.61s; loss: 9.7385;
+2024-04-15 15:22:30,127 - test - INFO -      Instance: 4000; Time: 19.57s; loss: 7.2472;
+2024-04-15 15:22:30,973 - test - INFO - Dev: time: 0.71s speed: 285.00st/s; acc: 0.4826; f: 0.4849;
+2024-04-15 15:22:31,892 - test - INFO - Test: time: 0.92s, speed: 220.15st/s; acc: 0.9701, p: 0.9779, r: 0.9721, f: 0.9739
+2024-04-15 15:22:50,554 - test - INFO -      Instance: 2000; Time: 18.66s; loss: 10.8484;
+2024-04-15 15:23:09,357 - test - INFO -      Instance: 4000; Time: 18.80s; loss: 6.3073;
+2024-04-15 15:23:10,166 - test - INFO - Dev: time: 0.68s speed: 297.20st/s; acc: 0.5473; f: 0.5548;
+2024-04-15 15:23:10,863 - test - INFO - Test: time: 0.70s, speed: 290.68st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 15:23:29,963 - test - INFO -      Instance: 2000; Time: 19.10s; loss: 4.3336;
+2024-04-15 15:23:48,706 - test - INFO -      Instance: 4000; Time: 18.74s; loss: 6.8117;
+2024-04-15 15:23:49,536 - test - INFO - Dev: time: 0.68s speed: 298.99st/s; acc: 0.5274; f: 0.5244;
+2024-04-15 15:23:50,233 - test - INFO - Test: time: 0.70s, speed: 290.46st/s; acc: 0.9950, p: 0.9962, r: 0.9951, f: 0.9956
+2024-04-15 15:23:50,234 - test - INFO - Best Test F1 Score: 0.9441933867224709, Best Validation F1 Score: 0.5688652164950947, Best Test F1 Score Epoch: 4 
+2024-04-15 17:14:22,937 - test - INFO - Training model...
+2024-04-15 17:14:22,937 - test - INFO - Training model...
+2024-04-15 17:14:36,872 - test - INFO -      Instance: 2000; Time: 9.72s; loss: 1218.0486;
+2024-04-15 17:14:36,872 - test - INFO -      Instance: 2000; Time: 9.72s; loss: 1218.0486;
+2024-04-15 17:14:46,510 - test - INFO -      Instance: 4000; Time: 9.64s; loss: 1052.5708;
+2024-04-15 17:14:46,510 - test - INFO -      Instance: 4000; Time: 9.64s; loss: 1052.5708;
+2024-04-15 17:14:56,092 - test - INFO -      Instance: 6000; Time: 9.58s; loss: 934.4000;
+2024-04-15 17:14:56,092 - test - INFO -      Instance: 6000; Time: 9.58s; loss: 934.4000;
+2024-04-15 17:15:05,758 - test - INFO -      Instance: 8000; Time: 9.67s; loss: 882.9469;
+2024-04-15 17:15:05,758 - test - INFO -      Instance: 8000; Time: 9.67s; loss: 882.9469;
+2024-04-15 17:15:15,421 - test - INFO -      Instance: 10000; Time: 9.66s; loss: 841.2287;
+2024-04-15 17:15:15,421 - test - INFO -      Instance: 10000; Time: 9.66s; loss: 841.2287;
+2024-04-15 17:15:25,064 - test - INFO -      Instance: 12000; Time: 9.64s; loss: 797.1027;
+2024-04-15 17:15:25,064 - test - INFO -      Instance: 12000; Time: 9.64s; loss: 797.1027;
+2024-04-15 17:15:34,714 - test - INFO -      Instance: 14000; Time: 9.65s; loss: 756.1648;
+2024-04-15 17:15:34,714 - test - INFO -      Instance: 14000; Time: 9.65s; loss: 756.1648;
+2024-04-15 17:15:44,379 - test - INFO -      Instance: 16000; Time: 9.66s; loss: 766.7396;
+2024-04-15 17:15:44,379 - test - INFO -      Instance: 16000; Time: 9.66s; loss: 766.7396;
+2024-04-15 17:15:54,026 - test - INFO -      Instance: 18000; Time: 9.65s; loss: 736.4849;
+2024-04-15 17:15:54,026 - test - INFO -      Instance: 18000; Time: 9.65s; loss: 736.4849;
+2024-04-15 17:16:03,697 - test - INFO -      Instance: 20000; Time: 9.67s; loss: 731.5197;
+2024-04-15 17:16:03,697 - test - INFO -      Instance: 20000; Time: 9.67s; loss: 731.5197;
+2024-04-15 17:16:13,306 - test - INFO -      Instance: 22000; Time: 9.61s; loss: 727.1532;
+2024-04-15 17:16:13,306 - test - INFO -      Instance: 22000; Time: 9.61s; loss: 727.1532;
+2024-04-15 17:16:22,936 - test - INFO -      Instance: 24000; Time: 9.63s; loss: 741.4200;
+2024-04-15 17:16:22,936 - test - INFO -      Instance: 24000; Time: 9.63s; loss: 741.4200;
+2024-04-15 17:16:32,537 - test - INFO -      Instance: 26000; Time: 9.60s; loss: 677.4361;
+2024-04-15 17:16:32,537 - test - INFO -      Instance: 26000; Time: 9.60s; loss: 677.4361;
+2024-04-15 17:16:42,173 - test - INFO -      Instance: 28000; Time: 9.64s; loss: 695.4014;
+2024-04-15 17:16:42,173 - test - INFO -      Instance: 28000; Time: 9.64s; loss: 695.4014;
+2024-04-15 17:16:51,853 - test - INFO -      Instance: 30000; Time: 9.68s; loss: 691.9569;
+2024-04-15 17:16:51,853 - test - INFO -      Instance: 30000; Time: 9.68s; loss: 691.9569;
+2024-04-15 17:17:01,458 - test - INFO -      Instance: 32000; Time: 9.60s; loss: 703.3212;
+2024-04-15 17:17:01,458 - test - INFO -      Instance: 32000; Time: 9.60s; loss: 703.3212;
+2024-04-15 17:17:11,071 - test - INFO -      Instance: 34000; Time: 9.61s; loss: 668.9142;
+2024-04-15 17:17:11,071 - test - INFO -      Instance: 34000; Time: 9.61s; loss: 668.9142;
+2024-04-15 17:17:20,723 - test - INFO -      Instance: 36000; Time: 9.65s; loss: 686.2598;
+2024-04-15 17:17:20,723 - test - INFO -      Instance: 36000; Time: 9.65s; loss: 686.2598;
+2024-04-15 17:17:30,410 - test - INFO -      Instance: 38000; Time: 9.69s; loss: 661.5272;
+2024-04-15 17:17:30,410 - test - INFO -      Instance: 38000; Time: 9.69s; loss: 661.5272;
+2024-04-15 17:17:40,020 - test - INFO -      Instance: 40000; Time: 9.61s; loss: 681.3093;
+2024-04-15 17:17:40,020 - test - INFO -      Instance: 40000; Time: 9.61s; loss: 681.3093;
+2024-04-15 17:17:49,648 - test - INFO -      Instance: 42000; Time: 9.63s; loss: 641.3301;
+2024-04-15 17:17:49,648 - test - INFO -      Instance: 42000; Time: 9.63s; loss: 641.3301;
+2024-04-15 17:17:59,227 - test - INFO -      Instance: 44000; Time: 9.58s; loss: 622.8976;
+2024-04-15 17:17:59,227 - test - INFO -      Instance: 44000; Time: 9.58s; loss: 622.8976;
+2024-04-15 17:18:08,870 - test - INFO -      Instance: 46000; Time: 9.64s; loss: 632.3342;
+2024-04-15 17:18:08,870 - test - INFO -      Instance: 46000; Time: 9.64s; loss: 632.3342;
+2024-04-15 17:18:18,483 - test - INFO -      Instance: 48000; Time: 9.61s; loss: 624.4033;
+2024-04-15 17:18:18,483 - test - INFO -      Instance: 48000; Time: 9.61s; loss: 624.4033;
+2024-04-15 17:18:28,091 - test - INFO -      Instance: 50000; Time: 9.61s; loss: 592.5842;
+2024-04-15 17:18:28,091 - test - INFO -      Instance: 50000; Time: 9.61s; loss: 592.5842;
+2024-04-15 17:18:37,852 - test - INFO -      Instance: 52000; Time: 9.76s; loss: 634.2262;
+2024-04-15 17:18:37,852 - test - INFO -      Instance: 52000; Time: 9.76s; loss: 634.2262;
+2024-04-15 17:18:47,490 - test - INFO -      Instance: 54000; Time: 9.64s; loss: 612.9738;
+2024-04-15 17:18:47,490 - test - INFO -      Instance: 54000; Time: 9.64s; loss: 612.9738;
+2024-04-15 17:18:57,097 - test - INFO -      Instance: 56000; Time: 9.61s; loss: 623.9045;
+2024-04-15 17:18:57,097 - test - INFO -      Instance: 56000; Time: 9.61s; loss: 623.9045;
+2024-04-15 17:19:06,741 - test - INFO -      Instance: 58000; Time: 9.64s; loss: 593.6583;
+2024-04-15 17:19:06,741 - test - INFO -      Instance: 58000; Time: 9.64s; loss: 593.6583;
+2024-04-15 17:19:16,435 - test - INFO -      Instance: 60000; Time: 9.69s; loss: 585.8854;
+2024-04-15 17:19:16,435 - test - INFO -      Instance: 60000; Time: 9.69s; loss: 585.8854;
+2024-04-15 17:19:26,122 - test - INFO -      Instance: 62000; Time: 9.69s; loss: 590.5987;
+2024-04-15 17:19:26,122 - test - INFO -      Instance: 62000; Time: 9.69s; loss: 590.5987;
+2024-04-15 17:19:35,738 - test - INFO -      Instance: 64000; Time: 9.62s; loss: 581.5832;
+2024-04-15 17:19:35,738 - test - INFO -      Instance: 64000; Time: 9.62s; loss: 581.5832;
+2024-04-15 17:19:45,320 - test - INFO -      Instance: 66000; Time: 9.58s; loss: 567.5703;
+2024-04-15 17:19:45,320 - test - INFO -      Instance: 66000; Time: 9.58s; loss: 567.5703;
+2024-04-15 17:19:54,943 - test - INFO -      Instance: 68000; Time: 9.62s; loss: 577.5793;
+2024-04-15 17:19:54,943 - test - INFO -      Instance: 68000; Time: 9.62s; loss: 577.5793;
+2024-04-15 17:20:04,602 - test - INFO -      Instance: 70000; Time: 9.66s; loss: 590.3783;
+2024-04-15 17:20:04,602 - test - INFO -      Instance: 70000; Time: 9.66s; loss: 590.3783;
+2024-04-15 17:20:14,262 - test - INFO -      Instance: 72000; Time: 9.66s; loss: 531.2588;
+2024-04-15 17:20:14,262 - test - INFO -      Instance: 72000; Time: 9.66s; loss: 531.2588;
+2024-04-15 17:20:23,925 - test - INFO -      Instance: 74000; Time: 9.66s; loss: 553.6963;
+2024-04-15 17:20:23,925 - test - INFO -      Instance: 74000; Time: 9.66s; loss: 553.6963;
+2024-04-15 17:20:33,555 - test - INFO -      Instance: 76000; Time: 9.63s; loss: 547.7065;
+2024-04-15 17:20:33,555 - test - INFO -      Instance: 76000; Time: 9.63s; loss: 547.7065;
+2024-04-15 17:20:43,176 - test - INFO -      Instance: 78000; Time: 9.62s; loss: 573.7535;
+2024-04-15 17:20:43,176 - test - INFO -      Instance: 78000; Time: 9.62s; loss: 573.7535;
+2024-04-15 17:20:52,834 - test - INFO -      Instance: 80000; Time: 9.66s; loss: 555.5019;
+2024-04-15 17:20:52,834 - test - INFO -      Instance: 80000; Time: 9.66s; loss: 555.5019;
+2024-04-15 17:21:02,433 - test - INFO -      Instance: 82000; Time: 9.60s; loss: 547.2724;
+2024-04-15 17:21:02,433 - test - INFO -      Instance: 82000; Time: 9.60s; loss: 547.2724;
+2024-04-15 17:21:12,057 - test - INFO -      Instance: 84000; Time: 9.62s; loss: 543.5775;
+2024-04-15 17:21:12,057 - test - INFO -      Instance: 84000; Time: 9.62s; loss: 543.5775;
+2024-04-15 17:21:21,698 - test - INFO -      Instance: 86000; Time: 9.64s; loss: 545.3504;
+2024-04-15 17:21:21,698 - test - INFO -      Instance: 86000; Time: 9.64s; loss: 545.3504;
+2024-04-15 17:21:31,308 - test - INFO -      Instance: 88000; Time: 9.61s; loss: 527.9189;
+2024-04-15 17:21:31,308 - test - INFO -      Instance: 88000; Time: 9.61s; loss: 527.9189;
+2024-04-15 17:21:40,907 - test - INFO -      Instance: 90000; Time: 9.60s; loss: 519.0555;
+2024-04-15 17:21:40,907 - test - INFO -      Instance: 90000; Time: 9.60s; loss: 519.0555;
+2024-04-15 17:21:50,545 - test - INFO -      Instance: 92000; Time: 9.64s; loss: 502.9034;
+2024-04-15 17:21:50,545 - test - INFO -      Instance: 92000; Time: 9.64s; loss: 502.9034;
+2024-04-15 17:22:00,196 - test - INFO -      Instance: 94000; Time: 9.65s; loss: 548.6896;
+2024-04-15 17:22:00,196 - test - INFO -      Instance: 94000; Time: 9.65s; loss: 548.6896;
+2024-04-15 17:22:09,849 - test - INFO -      Instance: 96000; Time: 9.65s; loss: 533.9924;
+2024-04-15 17:22:09,849 - test - INFO -      Instance: 96000; Time: 9.65s; loss: 533.9924;
+2024-04-15 17:22:19,598 - test - INFO -      Instance: 98000; Time: 9.75s; loss: 517.3985;
+2024-04-15 17:22:19,598 - test - INFO -      Instance: 98000; Time: 9.75s; loss: 517.3985;
+2024-04-15 17:22:29,179 - test - INFO -      Instance: 100000; Time: 9.58s; loss: 524.3446;
+2024-04-15 17:22:29,179 - test - INFO -      Instance: 100000; Time: 9.58s; loss: 524.3446;
+2024-04-15 17:22:38,764 - test - INFO -      Instance: 102000; Time: 9.58s; loss: 514.9857;
+2024-04-15 17:22:38,764 - test - INFO -      Instance: 102000; Time: 9.58s; loss: 514.9857;
+2024-04-15 17:22:48,361 - test - INFO -      Instance: 104000; Time: 9.60s; loss: 509.0105;
+2024-04-15 17:22:48,361 - test - INFO -      Instance: 104000; Time: 9.60s; loss: 509.0105;
+2024-04-15 17:22:58,032 - test - INFO -      Instance: 106000; Time: 9.67s; loss: 523.5632;
+2024-04-15 17:22:58,032 - test - INFO -      Instance: 106000; Time: 9.67s; loss: 523.5632;
+2024-04-15 17:23:07,687 - test - INFO -      Instance: 108000; Time: 9.66s; loss: 483.7023;
+2024-04-15 17:23:07,687 - test - INFO -      Instance: 108000; Time: 9.66s; loss: 483.7023;
+2024-04-15 17:23:17,303 - test - INFO -      Instance: 110000; Time: 9.62s; loss: 507.7207;
+2024-04-15 17:23:17,303 - test - INFO -      Instance: 110000; Time: 9.62s; loss: 507.7207;
+2024-04-15 17:23:26,921 - test - INFO -      Instance: 112000; Time: 9.62s; loss: 492.0927;
+2024-04-15 17:23:26,921 - test - INFO -      Instance: 112000; Time: 9.62s; loss: 492.0927;
+2024-04-15 17:23:36,541 - test - INFO -      Instance: 114000; Time: 9.62s; loss: 484.5646;
+2024-04-15 17:23:36,541 - test - INFO -      Instance: 114000; Time: 9.62s; loss: 484.5646;
+2024-04-15 17:23:46,165 - test - INFO -      Instance: 116000; Time: 9.62s; loss: 512.6053;
+2024-04-15 17:23:46,165 - test - INFO -      Instance: 116000; Time: 9.62s; loss: 512.6053;
+2024-04-15 17:23:55,838 - test - INFO -      Instance: 118000; Time: 9.67s; loss: 517.6678;
+2024-04-15 17:23:55,838 - test - INFO -      Instance: 118000; Time: 9.67s; loss: 517.6678;
+2024-04-15 17:24:05,457 - test - INFO -      Instance: 120000; Time: 9.62s; loss: 461.0854;
+2024-04-15 17:24:05,457 - test - INFO -      Instance: 120000; Time: 9.62s; loss: 461.0854;
+2024-04-15 17:24:15,123 - test - INFO -      Instance: 122000; Time: 9.67s; loss: 469.9347;
+2024-04-15 17:24:15,123 - test - INFO -      Instance: 122000; Time: 9.67s; loss: 469.9347;
+2024-04-15 17:24:24,759 - test - INFO -      Instance: 124000; Time: 9.64s; loss: 485.2570;
+2024-04-15 17:24:24,759 - test - INFO -      Instance: 124000; Time: 9.64s; loss: 485.2570;
+2024-04-15 17:24:34,409 - test - INFO -      Instance: 126000; Time: 9.65s; loss: 480.7591;
+2024-04-15 17:24:34,409 - test - INFO -      Instance: 126000; Time: 9.65s; loss: 480.7591;
+2024-04-15 17:24:44,024 - test - INFO -      Instance: 128000; Time: 9.62s; loss: 474.3279;
+2024-04-15 17:24:44,024 - test - INFO -      Instance: 128000; Time: 9.62s; loss: 474.3279;
+2024-04-15 17:24:53,603 - test - INFO -      Instance: 130000; Time: 9.58s; loss: 477.4816;
+2024-04-15 17:24:53,603 - test - INFO -      Instance: 130000; Time: 9.58s; loss: 477.4816;
+2024-04-15 17:25:03,214 - test - INFO -      Instance: 132000; Time: 9.61s; loss: 454.8587;
+2024-04-15 17:25:03,214 - test - INFO -      Instance: 132000; Time: 9.61s; loss: 454.8587;
+2024-04-15 17:25:12,800 - test - INFO -      Instance: 134000; Time: 9.59s; loss: 450.3194;
+2024-04-15 17:25:12,800 - test - INFO -      Instance: 134000; Time: 9.59s; loss: 450.3194;
+2024-04-15 17:25:22,373 - test - INFO -      Instance: 136000; Time: 9.57s; loss: 465.0808;
+2024-04-15 17:25:22,373 - test - INFO -      Instance: 136000; Time: 9.57s; loss: 465.0808;
+2024-04-15 17:25:32,031 - test - INFO -      Instance: 138000; Time: 9.66s; loss: 472.7620;
+2024-04-15 17:25:32,031 - test - INFO -      Instance: 138000; Time: 9.66s; loss: 472.7620;
+2024-04-15 17:25:41,624 - test - INFO -      Instance: 140000; Time: 9.59s; loss: 452.4234;
+2024-04-15 17:25:41,624 - test - INFO -      Instance: 140000; Time: 9.59s; loss: 452.4234;
+2024-04-15 17:25:51,211 - test - INFO -      Instance: 142000; Time: 9.59s; loss: 465.7783;
+2024-04-15 17:25:51,211 - test - INFO -      Instance: 142000; Time: 9.59s; loss: 465.7783;
+2024-04-15 17:26:00,910 - test - INFO -      Instance: 144000; Time: 9.70s; loss: 480.1519;
+2024-04-15 17:26:00,910 - test - INFO -      Instance: 144000; Time: 9.70s; loss: 480.1519;
+2024-04-15 17:26:10,582 - test - INFO -      Instance: 146000; Time: 9.67s; loss: 463.0741;
+2024-04-15 17:26:10,582 - test - INFO -      Instance: 146000; Time: 9.67s; loss: 463.0741;
+2024-04-15 17:26:20,204 - test - INFO -      Instance: 148000; Time: 9.62s; loss: 450.0524;
+2024-04-15 17:26:20,204 - test - INFO -      Instance: 148000; Time: 9.62s; loss: 450.0524;
+2024-04-15 17:26:29,814 - test - INFO -      Instance: 150000; Time: 9.61s; loss: 451.0501;
+2024-04-15 17:26:29,814 - test - INFO -      Instance: 150000; Time: 9.61s; loss: 451.0501;
+2024-04-15 17:26:39,394 - test - INFO -      Instance: 152000; Time: 9.58s; loss: 459.1639;
+2024-04-15 17:26:39,394 - test - INFO -      Instance: 152000; Time: 9.58s; loss: 459.1639;
+2024-04-15 17:26:49,041 - test - INFO -      Instance: 154000; Time: 9.65s; loss: 437.8406;
+2024-04-15 17:26:49,041 - test - INFO -      Instance: 154000; Time: 9.65s; loss: 437.8406;
+2024-04-15 17:26:58,622 - test - INFO -      Instance: 156000; Time: 9.58s; loss: 442.3131;
+2024-04-15 17:26:58,622 - test - INFO -      Instance: 156000; Time: 9.58s; loss: 442.3131;
+2024-04-15 17:27:08,228 - test - INFO -      Instance: 158000; Time: 9.61s; loss: 445.5953;
+2024-04-15 17:27:08,228 - test - INFO -      Instance: 158000; Time: 9.61s; loss: 445.5953;
+2024-04-15 17:27:17,850 - test - INFO -      Instance: 160000; Time: 9.62s; loss: 453.6970;
+2024-04-15 17:27:17,850 - test - INFO -      Instance: 160000; Time: 9.62s; loss: 453.6970;
+2024-04-15 17:27:27,458 - test - INFO -      Instance: 162000; Time: 9.61s; loss: 410.1147;
+2024-04-15 17:27:27,458 - test - INFO -      Instance: 162000; Time: 9.61s; loss: 410.1147;
+2024-04-15 17:27:37,069 - test - INFO -      Instance: 164000; Time: 9.61s; loss: 430.1578;
+2024-04-15 17:27:37,069 - test - INFO -      Instance: 164000; Time: 9.61s; loss: 430.1578;
+2024-04-15 17:27:46,658 - test - INFO -      Instance: 166000; Time: 9.59s; loss: 438.3904;
+2024-04-15 17:27:46,658 - test - INFO -      Instance: 166000; Time: 9.59s; loss: 438.3904;
+2024-04-15 17:27:56,306 - test - INFO -      Instance: 168000; Time: 9.65s; loss: 445.3253;
+2024-04-15 17:27:56,306 - test - INFO -      Instance: 168000; Time: 9.65s; loss: 445.3253;
+2024-04-15 17:28:05,870 - test - INFO -      Instance: 170000; Time: 9.56s; loss: 448.0171;
+2024-04-15 17:28:05,870 - test - INFO -      Instance: 170000; Time: 9.56s; loss: 448.0171;
+2024-04-15 17:28:15,440 - test - INFO -      Instance: 172000; Time: 9.57s; loss: 429.3606;
+2024-04-15 17:28:15,440 - test - INFO -      Instance: 172000; Time: 9.57s; loss: 429.3606;
+2024-04-15 17:28:25,083 - test - INFO -      Instance: 174000; Time: 9.64s; loss: 425.9668;
+2024-04-15 17:28:25,083 - test - INFO -      Instance: 174000; Time: 9.64s; loss: 425.9668;
+2024-04-15 17:28:34,708 - test - INFO -      Instance: 176000; Time: 9.63s; loss: 404.4671;
+2024-04-15 17:28:34,708 - test - INFO -      Instance: 176000; Time: 9.63s; loss: 404.4671;
+2024-04-15 17:28:44,327 - test - INFO -      Instance: 178000; Time: 9.62s; loss: 426.5258;
+2024-04-15 17:28:44,327 - test - INFO -      Instance: 178000; Time: 9.62s; loss: 426.5258;
+2024-04-15 17:28:53,922 - test - INFO -      Instance: 180000; Time: 9.60s; loss: 438.9147;
+2024-04-15 17:28:53,922 - test - INFO -      Instance: 180000; Time: 9.60s; loss: 438.9147;
+2024-04-15 17:29:03,588 - test - INFO -      Instance: 182000; Time: 9.67s; loss: 427.1446;
+2024-04-15 17:29:03,588 - test - INFO -      Instance: 182000; Time: 9.67s; loss: 427.1446;
+2024-04-15 17:29:13,198 - test - INFO -      Instance: 184000; Time: 9.61s; loss: 400.1376;
+2024-04-15 17:29:13,198 - test - INFO -      Instance: 184000; Time: 9.61s; loss: 400.1376;
+2024-04-15 17:29:22,816 - test - INFO -      Instance: 186000; Time: 9.62s; loss: 416.7288;
+2024-04-15 17:29:22,816 - test - INFO -      Instance: 186000; Time: 9.62s; loss: 416.7288;
+2024-04-15 17:29:32,472 - test - INFO -      Instance: 188000; Time: 9.66s; loss: 435.8031;
+2024-04-15 17:29:32,472 - test - INFO -      Instance: 188000; Time: 9.66s; loss: 435.8031;
+2024-04-15 17:29:42,141 - test - INFO -      Instance: 190000; Time: 9.67s; loss: 422.6057;
+2024-04-15 17:29:42,141 - test - INFO -      Instance: 190000; Time: 9.67s; loss: 422.6057;
+2024-04-15 17:29:51,776 - test - INFO -      Instance: 192000; Time: 9.63s; loss: 426.7186;
+2024-04-15 17:29:51,776 - test - INFO -      Instance: 192000; Time: 9.63s; loss: 426.7186;
+2024-04-15 17:30:01,369 - test - INFO -      Instance: 194000; Time: 9.59s; loss: 417.4754;
+2024-04-15 17:30:01,369 - test - INFO -      Instance: 194000; Time: 9.59s; loss: 417.4754;
+2024-04-15 17:30:11,044 - test - INFO -      Instance: 196000; Time: 9.68s; loss: 412.8502;
+2024-04-15 17:30:11,044 - test - INFO -      Instance: 196000; Time: 9.68s; loss: 412.8502;
+2024-04-15 17:30:20,717 - test - INFO -      Instance: 198000; Time: 9.67s; loss: 403.5221;
+2024-04-15 17:30:20,717 - test - INFO -      Instance: 198000; Time: 9.67s; loss: 403.5221;
+2024-04-15 17:30:30,411 - test - INFO -      Instance: 200000; Time: 9.69s; loss: 436.9806;
+2024-04-15 17:30:30,411 - test - INFO -      Instance: 200000; Time: 9.69s; loss: 436.9806;
+2024-04-15 17:30:40,027 - test - INFO -      Instance: 202000; Time: 9.62s; loss: 440.6158;
+2024-04-15 17:30:40,027 - test - INFO -      Instance: 202000; Time: 9.62s; loss: 440.6158;
+2024-04-15 17:30:49,669 - test - INFO -      Instance: 204000; Time: 9.64s; loss: 440.0104;
+2024-04-15 17:30:49,669 - test - INFO -      Instance: 204000; Time: 9.64s; loss: 440.0104;
+2024-04-15 17:32:07,221 - test - INFO - Dev: time: 74.72s speed: 919.22st/s; acc: 0.6984; f: 0.1681;
+2024-04-15 17:32:07,221 - test - INFO - Dev: time: 74.72s speed: 919.22st/s; acc: 0.6984; f: 0.1681;
+2024-04-15 17:33:16,371 - test - INFO - Save current best acc model in file:/home/hsani/YATO/dataset/acc0.6663_p0.1415_r0.1970_f0.1568.pth
+2024-04-15 17:33:16,371 - test - INFO - Save current best acc model in file:/home/hsani/YATO/dataset/acc0.6663_p0.1415_r0.1970_f0.1568.pth
+2024-04-15 17:33:17,820 - test - INFO - Save current best f model in file:/home/hsani/YATO/dataset/acc0.6663_p0.1415_r0.1970_f0.1568.pth
+2024-04-15 17:33:17,820 - test - INFO - Save current best f model in file:/home/hsani/YATO/dataset/acc0.6663_p0.1415_r0.1970_f0.1568.pth
+2024-04-15 17:33:17,821 - test - INFO - Test: time: 69.15s, speed: 922.05st/s; acc: 0.6663, p: 0.1415, r: 0.1970, f: 0.1568
+2024-04-15 17:33:17,821 - test - INFO - Test: time: 69.15s, speed: 922.05st/s; acc: 0.6663, p: 0.1415, r: 0.1970, f: 0.1568
+2024-04-15 17:33:27,633 - test - INFO -      Instance: 2000; Time: 9.81s; loss: 394.6080;
+2024-04-15 17:33:27,633 - test - INFO -      Instance: 2000; Time: 9.81s; loss: 394.6080;
+2024-04-15 17:33:37,219 - test - INFO -      Instance: 4000; Time: 9.59s; loss: 385.7989;
+2024-04-15 17:33:37,219 - test - INFO -      Instance: 4000; Time: 9.59s; loss: 385.7989;
+2024-04-15 17:33:46,810 - test - INFO -      Instance: 6000; Time: 9.59s; loss: 366.7217;
+2024-04-15 17:33:46,810 - test - INFO -      Instance: 6000; Time: 9.59s; loss: 366.7217;
+2024-04-15 17:33:56,453 - test - INFO -      Instance: 8000; Time: 9.64s; loss: 378.7208;
+2024-04-15 17:33:56,453 - test - INFO -      Instance: 8000; Time: 9.64s; loss: 378.7208;
+2024-04-15 17:34:06,067 - test - INFO -      Instance: 10000; Time: 9.61s; loss: 357.7564;
+2024-04-15 17:34:06,067 - test - INFO -      Instance: 10000; Time: 9.61s; loss: 357.7564;
+2024-04-15 17:34:15,705 - test - INFO -      Instance: 12000; Time: 9.64s; loss: 366.7724;
+2024-04-15 17:34:15,705 - test - INFO -      Instance: 12000; Time: 9.64s; loss: 366.7724;
+2024-04-15 17:34:25,338 - test - INFO -      Instance: 14000; Time: 9.63s; loss: 359.1641;
+2024-04-15 17:34:25,338 - test - INFO -      Instance: 14000; Time: 9.63s; loss: 359.1641;
+2024-04-15 17:34:34,944 - test - INFO -      Instance: 16000; Time: 9.61s; loss: 383.3428;
+2024-04-15 17:34:34,944 - test - INFO -      Instance: 16000; Time: 9.61s; loss: 383.3428;
+2024-04-15 17:34:44,541 - test - INFO -      Instance: 18000; Time: 9.60s; loss: 369.6954;
+2024-04-15 17:34:44,541 - test - INFO -      Instance: 18000; Time: 9.60s; loss: 369.6954;
+2024-04-15 17:34:54,144 - test - INFO -      Instance: 20000; Time: 9.60s; loss: 359.8997;
+2024-04-15 17:34:54,144 - test - INFO -      Instance: 20000; Time: 9.60s; loss: 359.8997;
+2024-04-15 17:35:03,770 - test - INFO -      Instance: 22000; Time: 9.63s; loss: 390.6498;
+2024-04-15 17:35:03,770 - test - INFO -      Instance: 22000; Time: 9.63s; loss: 390.6498;
+2024-04-15 17:35:13,344 - test - INFO -      Instance: 24000; Time: 9.57s; loss: 358.2773;
+2024-04-15 17:35:13,344 - test - INFO -      Instance: 24000; Time: 9.57s; loss: 358.2773;
+2024-04-15 17:35:22,946 - test - INFO -      Instance: 26000; Time: 9.60s; loss: 350.1537;
+2024-04-15 17:35:22,946 - test - INFO -      Instance: 26000; Time: 9.60s; loss: 350.1537;
+2024-04-15 17:35:32,622 - test - INFO -      Instance: 28000; Time: 9.68s; loss: 374.9636;
+2024-04-15 17:35:32,622 - test - INFO -      Instance: 28000; Time: 9.68s; loss: 374.9636;
+2024-04-15 17:35:42,196 - test - INFO -      Instance: 30000; Time: 9.57s; loss: 351.3929;
+2024-04-15 17:35:42,196 - test - INFO -      Instance: 30000; Time: 9.57s; loss: 351.3929;
+2024-04-15 17:35:51,790 - test - INFO -      Instance: 32000; Time: 9.59s; loss: 348.1326;
+2024-04-15 17:35:51,790 - test - INFO -      Instance: 32000; Time: 9.59s; loss: 348.1326;
+2024-04-15 17:36:01,399 - test - INFO -      Instance: 34000; Time: 9.61s; loss: 355.6881;
+2024-04-15 17:36:01,399 - test - INFO -      Instance: 34000; Time: 9.61s; loss: 355.6881;
+2024-04-15 17:36:11,052 - test - INFO -      Instance: 36000; Time: 9.65s; loss: 373.0986;
+2024-04-15 17:36:11,052 - test - INFO -      Instance: 36000; Time: 9.65s; loss: 373.0986;
+2024-04-15 17:37:48,916 - test - INFO - Training model...
+2024-04-15 17:40:55,933 - test - INFO - Training model...
+2024-04-15 17:41:11,295 - test - INFO -      Instance: 2000; Time: 10.85s; loss: 1238.7017;
+2024-04-15 17:41:21,607 - test - INFO -      Instance: 4000; Time: 10.31s; loss: 1094.8306;
+2024-04-15 17:41:31,862 - test - INFO -      Instance: 6000; Time: 10.25s; loss: 982.2026;
+2024-04-15 17:41:42,201 - test - INFO -      Instance: 8000; Time: 10.34s; loss: 921.9812;
+2024-04-15 17:41:52,537 - test - INFO -      Instance: 10000; Time: 10.34s; loss: 874.8746;
+2024-04-15 17:42:02,852 - test - INFO -      Instance: 12000; Time: 10.32s; loss: 829.2009;
+2024-04-15 17:42:13,150 - test - INFO -      Instance: 14000; Time: 10.30s; loss: 788.3831;
+2024-04-15 17:42:23,477 - test - INFO -      Instance: 16000; Time: 10.33s; loss: 794.3076;
+2024-04-15 17:42:33,788 - test - INFO -      Instance: 18000; Time: 10.31s; loss: 765.2056;
+2024-04-15 17:42:44,126 - test - INFO -      Instance: 20000; Time: 10.34s; loss: 758.4927;
+2024-04-15 17:42:54,404 - test - INFO -      Instance: 22000; Time: 10.28s; loss: 753.0137;
+2024-04-15 17:43:04,703 - test - INFO -      Instance: 24000; Time: 10.30s; loss: 767.3822;
+2024-04-15 17:43:14,970 - test - INFO -      Instance: 26000; Time: 10.27s; loss: 706.1351;
+2024-04-15 17:43:25,278 - test - INFO -      Instance: 28000; Time: 10.31s; loss: 722.5902;
+2024-04-15 17:43:35,630 - test - INFO -      Instance: 30000; Time: 10.35s; loss: 719.1160;
+2024-04-15 17:43:45,901 - test - INFO -      Instance: 32000; Time: 10.27s; loss: 733.1474;
+2024-04-15 17:43:56,185 - test - INFO -      Instance: 34000; Time: 10.28s; loss: 694.5370;
+2024-04-15 17:44:06,505 - test - INFO -      Instance: 36000; Time: 10.32s; loss: 715.0832;
+2024-04-15 17:44:16,855 - test - INFO -      Instance: 38000; Time: 10.35s; loss: 693.7430;
+2024-04-15 17:44:27,135 - test - INFO -      Instance: 40000; Time: 10.28s; loss: 711.8842;
+2024-04-15 17:44:37,429 - test - INFO -      Instance: 42000; Time: 10.29s; loss: 671.2237;
+2024-04-15 17:44:47,675 - test - INFO -      Instance: 44000; Time: 10.25s; loss: 655.8725;
+2024-04-15 17:44:57,994 - test - INFO -      Instance: 46000; Time: 10.32s; loss: 663.5257;
+2024-04-15 17:45:08,278 - test - INFO -      Instance: 48000; Time: 10.28s; loss: 658.6925;
+2024-04-15 17:45:18,557 - test - INFO -      Instance: 50000; Time: 10.28s; loss: 625.8168;
+2024-04-15 17:45:28,975 - test - INFO -      Instance: 52000; Time: 10.42s; loss: 668.7938;
+2024-04-15 17:45:39,291 - test - INFO -      Instance: 54000; Time: 10.32s; loss: 642.3230;
+2024-04-15 17:45:49,569 - test - INFO -      Instance: 56000; Time: 10.28s; loss: 656.7401;
+2024-04-15 17:45:59,888 - test - INFO -      Instance: 58000; Time: 10.32s; loss: 630.2318;
+2024-04-15 17:46:10,256 - test - INFO -      Instance: 60000; Time: 10.37s; loss: 621.0042;
+2024-04-15 17:46:20,619 - test - INFO -      Instance: 62000; Time: 10.36s; loss: 623.6106;
+2024-04-15 17:46:30,915 - test - INFO -      Instance: 64000; Time: 10.30s; loss: 617.1716;
+2024-04-15 17:46:41,178 - test - INFO -      Instance: 66000; Time: 10.26s; loss: 600.9602;
+2024-04-15 17:46:51,486 - test - INFO -      Instance: 68000; Time: 10.31s; loss: 616.1220;
+2024-04-15 17:47:01,820 - test - INFO -      Instance: 70000; Time: 10.33s; loss: 629.5525;
+2024-04-15 17:47:12,159 - test - INFO -      Instance: 72000; Time: 10.34s; loss: 570.3402;
+2024-04-15 17:47:22,504 - test - INFO -      Instance: 74000; Time: 10.34s; loss: 592.2697;
+2024-04-15 17:47:32,817 - test - INFO -      Instance: 76000; Time: 10.31s; loss: 587.3752;
+2024-04-15 17:47:43,121 - test - INFO -      Instance: 78000; Time: 10.30s; loss: 611.9885;
+2024-04-15 17:48:09,813 - test - INFO - Training model...
+2024-04-15 17:48:32,053 - test - INFO -      Instance: 2000; Time: 20.08s; loss: 175.6447;
+2024-04-15 17:48:51,231 - test - INFO -      Instance: 4000; Time: 19.18s; loss: 151.3492;
+2024-04-15 17:48:52,061 - test - INFO - Dev: time: 0.68s speed: 299.26st/s; acc: 0.5274; f: 0.5206;
+2024-04-15 17:48:52,756 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.6567_p0.6562_r0.6543_f0.6482.pth
+2024-04-15 17:48:53,989 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.6567_p0.6562_r0.6543_f0.6482.pth
+2024-04-15 17:48:53,991 - test - INFO - Test: time: 0.69s, speed: 291.79st/s; acc: 0.6567, p: 0.6562, r: 0.6543, f: 0.6482
+2024-04-15 17:49:13,546 - test - INFO -      Instance: 2000; Time: 19.55s; loss: 124.7805;
+2024-04-15 17:49:32,782 - test - INFO -      Instance: 4000; Time: 19.24s; loss: 118.6242;
+2024-04-15 17:49:33,597 - test - INFO - Dev: time: 0.68s speed: 299.62st/s; acc: 0.4677; f: 0.4615;
+2024-04-15 17:49:34,291 - test - INFO - Test: time: 0.69s, speed: 292.06st/s; acc: 0.6866, p: 0.6912, r: 0.6941, f: 0.6671
+2024-04-15 17:49:53,425 - test - INFO -      Instance: 2000; Time: 19.13s; loss: 90.1714;
+2024-04-15 17:50:12,702 - test - INFO -      Instance: 4000; Time: 19.28s; loss: 85.7735;
+2024-04-15 17:50:13,537 - test - INFO - Dev: time: 0.67s speed: 300.22st/s; acc: 0.5274; f: 0.5253;
+2024-04-15 17:50:14,234 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.8607_p0.8627_r0.8542_f0.8530.pth
+2024-04-15 17:50:15,540 - test - INFO - Test: time: 0.70s, speed: 290.35st/s; acc: 0.8607, p: 0.8627, r: 0.8542, f: 0.8530
+2024-04-15 17:50:34,481 - test - INFO -      Instance: 2000; Time: 18.94s; loss: 61.5113;
+2024-04-15 17:50:54,817 - test - INFO -      Instance: 4000; Time: 20.34s; loss: 61.9429;
+2024-04-15 17:50:55,635 - test - INFO - Dev: time: 0.68s speed: 299.37st/s; acc: 0.5672; f: 0.5768;
+2024-04-15 17:50:56,328 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9303_p0.9281_r0.9414_f0.9321.pth
+2024-04-15 17:50:57,562 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9303_p0.9281_r0.9414_f0.9321.pth
+2024-04-15 17:50:57,563 - test - INFO - Test: time: 0.69s, speed: 292.24st/s; acc: 0.9303, p: 0.9281, r: 0.9414, f: 0.9321
+2024-04-15 17:51:16,641 - test - INFO -      Instance: 2000; Time: 19.08s; loss: 35.8676;
+2024-04-15 17:51:36,631 - test - INFO -      Instance: 4000; Time: 19.99s; loss: 40.4438;
+2024-04-15 17:51:37,468 - test - INFO - Dev: time: 0.68s speed: 299.71st/s; acc: 0.5124; f: 0.5171;
+2024-04-15 17:51:38,162 - test - INFO - Test: time: 0.69s, speed: 291.75st/s; acc: 0.9005, p: 0.8924, r: 0.9209, f: 0.9005
+2024-04-15 17:51:57,146 - test - INFO -      Instance: 2000; Time: 18.98s; loss: 25.7206;
+2024-04-15 17:52:16,427 - test - INFO -      Instance: 4000; Time: 19.28s; loss: 26.0636;
+2024-04-15 17:52:17,239 - test - INFO - Dev: time: 0.68s speed: 299.02st/s; acc: 0.5821; f: 0.5838;
+2024-04-15 17:52:17,932 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9552_p0.9514_r0.9680_f0.9565.pth
+2024-04-15 17:52:19,171 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9552_p0.9514_r0.9680_f0.9565.pth
+2024-04-15 17:52:19,173 - test - INFO - Test: time: 0.69s, speed: 292.33st/s; acc: 0.9552, p: 0.9514, r: 0.9680, f: 0.9565
+2024-04-15 17:52:38,042 - test - INFO -      Instance: 2000; Time: 18.87s; loss: 19.5939;
+2024-04-15 17:52:57,415 - test - INFO -      Instance: 4000; Time: 19.37s; loss: 17.6004;
+2024-04-15 17:52:58,226 - test - INFO - Dev: time: 0.68s speed: 299.43st/s; acc: 0.5622; f: 0.5693;
+2024-04-15 17:52:58,920 - test - INFO - Test: time: 0.69s, speed: 291.90st/s; acc: 0.9851, p: 0.9807, r: 0.9877, f: 0.9840
+2024-04-15 17:53:17,908 - test - INFO -      Instance: 2000; Time: 18.99s; loss: 11.5177;
+2024-04-15 17:53:37,145 - test - INFO -      Instance: 4000; Time: 19.24s; loss: 12.6215;
+2024-04-15 17:53:37,966 - test - INFO - Dev: time: 0.68s speed: 299.76st/s; acc: 0.5522; f: 0.5570;
+2024-04-15 17:53:38,660 - test - INFO - Test: time: 0.69s, speed: 291.73st/s; acc: 0.9851, p: 0.9811, r: 0.9873, f: 0.9840
+2024-04-15 17:53:57,675 - test - INFO -      Instance: 2000; Time: 19.01s; loss: 10.9249;
+2024-04-15 17:54:16,991 - test - INFO -      Instance: 4000; Time: 19.32s; loss: 10.1166;
+2024-04-15 17:54:17,976 - test - INFO - Dev: time: 0.85s speed: 239.08st/s; acc: 0.5423; f: 0.5491;
+2024-04-15 17:54:18,668 - test - INFO - Test: time: 0.69s, speed: 292.46st/s; acc: 0.9950, p: 0.9952, r: 0.9961, f: 0.9956
+2024-04-15 17:54:37,955 - test - INFO -      Instance: 2000; Time: 19.29s; loss: 7.5513;
+2024-04-15 17:54:57,704 - test - INFO -      Instance: 4000; Time: 19.75s; loss: 7.1758;
+2024-04-15 17:54:58,768 - test - INFO - Dev: time: 0.90s speed: 224.42st/s; acc: 0.5572; f: 0.5665;
+2024-04-15 17:54:59,546 - test - INFO - Test: time: 0.78s, speed: 259.78st/s; acc: 0.9950, p: 0.9943, r: 0.9965, f: 0.9953
+2024-04-15 17:55:19,353 - test - INFO -      Instance: 2000; Time: 19.81s; loss: 3.7946;
+2024-04-15 17:55:39,205 - test - INFO -      Instance: 4000; Time: 19.85s; loss: 4.6316;
+2024-04-15 17:55:40,248 - test - INFO - Dev: time: 0.89s speed: 226.38st/s; acc: 0.5373; f: 0.5408;
+2024-04-15 17:55:41,103 - test - INFO - Test: time: 0.85s, speed: 236.63st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 17:56:00,783 - test - INFO -      Instance: 2000; Time: 19.68s; loss: 3.1836;
+2024-04-15 17:56:20,377 - test - INFO -      Instance: 4000; Time: 19.59s; loss: 2.8631;
+2024-04-15 17:56:21,348 - test - INFO - Dev: time: 0.83s speed: 244.90st/s; acc: 0.5323; f: 0.5248;
+2024-04-15 17:56:22,240 - test - INFO - Test: time: 0.89s, speed: 226.58st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 17:56:41,424 - test - INFO -      Instance: 2000; Time: 19.18s; loss: 2.5499;
+2024-04-15 17:57:01,039 - test - INFO -      Instance: 4000; Time: 19.62s; loss: 1.5558;
+2024-04-15 17:57:01,862 - test - INFO - Dev: time: 0.68s speed: 299.47st/s; acc: 0.5622; f: 0.5691;
+2024-04-15 17:57:02,557 - test - INFO - Test: time: 0.70s, speed: 291.38st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 17:57:21,908 - test - INFO -      Instance: 2000; Time: 19.35s; loss: 0.9698;
+2024-04-15 17:57:41,423 - test - INFO -      Instance: 4000; Time: 19.52s; loss: 1.6355;
+2024-04-15 17:57:42,246 - test - INFO - Dev: time: 0.67s speed: 300.56st/s; acc: 0.5771; f: 0.5845;
+2024-04-15 17:57:42,936 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc1.0000_p1.0000_r1.0000_f1.0000.pth
+2024-04-15 17:57:44,263 - test - INFO - Test: time: 0.69s, speed: 293.19st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 17:58:03,793 - test - INFO -      Instance: 2000; Time: 19.53s; loss: 0.6991;
+2024-04-15 17:58:23,435 - test - INFO -      Instance: 4000; Time: 19.64s; loss: 0.8367;
+2024-04-15 17:58:24,247 - test - INFO - Dev: time: 0.68s speed: 299.53st/s; acc: 0.5522; f: 0.5467;
+2024-04-15 17:58:25,075 - test - INFO - Test: time: 0.83s, speed: 244.22st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 17:58:44,585 - test - INFO -      Instance: 2000; Time: 19.51s; loss: 0.9432;
+2024-04-15 17:59:04,044 - test - INFO -      Instance: 4000; Time: 19.46s; loss: 0.3136;
+2024-04-15 17:59:05,098 - test - INFO - Dev: time: 0.89s speed: 227.30st/s; acc: 0.5672; f: 0.5795;
+2024-04-15 17:59:06,010 - test - INFO - Test: time: 0.91s, speed: 221.43st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 17:59:25,212 - test - INFO -      Instance: 2000; Time: 19.20s; loss: 0.5188;
+2024-04-15 17:59:44,705 - test - INFO -      Instance: 4000; Time: 19.49s; loss: 1.0113;
+2024-04-15 17:59:45,724 - test - INFO - Dev: time: 0.87s speed: 233.06st/s; acc: 0.5721; f: 0.5799;
+2024-04-15 17:59:46,415 - test - INFO - Test: time: 0.69s, speed: 292.93st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 18:00:05,626 - test - INFO -      Instance: 2000; Time: 19.21s; loss: 0.2074;
+2024-04-15 18:00:24,627 - test - INFO -      Instance: 4000; Time: 19.00s; loss: 0.3912;
+2024-04-15 18:00:25,434 - test - INFO - Dev: time: 0.67s speed: 300.13st/s; acc: 0.5473; f: 0.5522;
+2024-04-15 18:00:26,125 - test - INFO - Test: time: 0.69s, speed: 292.62st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 18:00:45,407 - test - INFO -      Instance: 2000; Time: 19.28s; loss: 0.0763;
+2024-04-15 18:01:04,606 - test - INFO -      Instance: 4000; Time: 19.20s; loss: 0.4515;
+2024-04-15 18:01:05,408 - test - INFO - Dev: time: 0.67s speed: 300.22st/s; acc: 0.5871; f: 0.5973;
+2024-04-15 18:01:06,098 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc1.0000_p1.0000_r1.0000_f1.0000.pth
+2024-04-15 18:01:06,099 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc1.0000_p1.0000_r1.0000_f1.0000.pth
+2024-04-15 18:01:06,099 - test - INFO - Test: time: 0.69s, speed: 293.26st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 18:01:25,391 - test - INFO -      Instance: 2000; Time: 19.29s; loss: 0.5496;
+2024-04-15 18:01:44,520 - test - INFO -      Instance: 4000; Time: 19.13s; loss: 0.4215;
+2024-04-15 18:01:45,553 - test - INFO - Dev: time: 0.89s speed: 226.08st/s; acc: 0.5672; f: 0.5713;
+2024-04-15 18:01:46,479 - test - INFO - Test: time: 0.93s, speed: 218.38st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 18:01:46,479 - test - INFO - Best Test F1 Score: 1.0, Best Validation F1 Score: 0.5972556970237612, Best Test F1 Score Epoch: 18 
+2024-04-15 18:06:20,244 - test - INFO - Training model...
+2024-04-15 18:06:37,074 - test - INFO -      Instance: 2000; Time: 10.92s; loss: 1238.7957;
+2024-04-15 18:06:47,385 - test - INFO -      Instance: 4000; Time: 10.31s; loss: 1094.6781;
+2024-04-15 18:06:57,643 - test - INFO -      Instance: 6000; Time: 10.26s; loss: 982.4624;
+2024-04-15 18:07:07,981 - test - INFO -      Instance: 8000; Time: 10.34s; loss: 922.1888;
+2024-04-15 18:07:18,321 - test - INFO -      Instance: 10000; Time: 10.34s; loss: 875.4126;
+2024-04-15 18:07:28,643 - test - INFO -      Instance: 12000; Time: 10.32s; loss: 829.5411;
+2024-04-15 18:07:38,942 - test - INFO -      Instance: 14000; Time: 10.30s; loss: 788.8942;
+2024-04-15 18:07:49,276 - test - INFO -      Instance: 16000; Time: 10.33s; loss: 795.1806;
+2024-04-15 18:07:59,589 - test - INFO -      Instance: 18000; Time: 10.31s; loss: 766.6774;
+2024-04-15 18:08:09,926 - test - INFO -      Instance: 20000; Time: 10.34s; loss: 758.2504;
+2024-04-15 18:08:20,204 - test - INFO -      Instance: 22000; Time: 10.28s; loss: 753.3273;
+2024-04-15 18:08:30,505 - test - INFO -      Instance: 24000; Time: 10.30s; loss: 767.7972;
+2024-04-15 18:08:40,777 - test - INFO -      Instance: 26000; Time: 10.27s; loss: 706.5413;
+2024-04-15 18:08:51,087 - test - INFO -      Instance: 28000; Time: 10.31s; loss: 722.1583;
+2024-04-15 18:09:01,439 - test - INFO -      Instance: 30000; Time: 10.35s; loss: 718.6032;
+2024-04-15 18:09:11,710 - test - INFO -      Instance: 32000; Time: 10.27s; loss: 733.3686;
+2024-04-15 18:09:21,996 - test - INFO -      Instance: 34000; Time: 10.29s; loss: 695.3314;
+2024-04-15 18:09:32,316 - test - INFO -      Instance: 36000; Time: 10.32s; loss: 715.4388;
+2024-04-15 18:09:42,667 - test - INFO -      Instance: 38000; Time: 10.35s; loss: 693.6210;
+2024-04-15 18:09:52,950 - test - INFO -      Instance: 40000; Time: 10.28s; loss: 712.3386;
+2024-04-15 18:10:03,247 - test - INFO -      Instance: 42000; Time: 10.30s; loss: 671.8650;
+2024-04-15 18:10:13,494 - test - INFO -      Instance: 44000; Time: 10.25s; loss: 655.1600;
+2024-04-15 18:10:23,809 - test - INFO -      Instance: 46000; Time: 10.32s; loss: 663.4268;
+2024-04-15 18:10:34,090 - test - INFO -      Instance: 48000; Time: 10.28s; loss: 657.6425;
+2024-04-15 18:10:44,365 - test - INFO -      Instance: 50000; Time: 10.28s; loss: 626.2150;
+2024-04-15 18:10:54,797 - test - INFO -      Instance: 52000; Time: 10.43s; loss: 668.4814;
+2024-04-15 18:11:05,108 - test - INFO -      Instance: 54000; Time: 10.31s; loss: 643.1500;
+2024-04-15 18:11:15,379 - test - INFO -      Instance: 56000; Time: 10.27s; loss: 657.1425;
+2024-04-15 18:11:25,694 - test - INFO -      Instance: 58000; Time: 10.31s; loss: 629.7616;
+2024-04-15 18:11:36,055 - test - INFO -      Instance: 60000; Time: 10.36s; loss: 621.9514;
+2024-04-15 18:11:46,410 - test - INFO -      Instance: 62000; Time: 10.35s; loss: 623.8446;
+2024-04-15 18:11:56,698 - test - INFO -      Instance: 64000; Time: 10.29s; loss: 617.7744;
+2024-04-15 18:12:06,957 - test - INFO -      Instance: 66000; Time: 10.26s; loss: 601.9249;
+2024-04-15 18:12:17,251 - test - INFO -      Instance: 68000; Time: 10.29s; loss: 616.4618;
+2024-04-15 18:12:27,577 - test - INFO -      Instance: 70000; Time: 10.33s; loss: 630.1233;
+2024-04-15 18:12:37,913 - test - INFO -      Instance: 72000; Time: 10.34s; loss: 570.1176;
+2024-04-15 18:12:48,249 - test - INFO -      Instance: 74000; Time: 10.34s; loss: 592.7186;
+2024-04-15 18:12:58,552 - test - INFO -      Instance: 76000; Time: 10.30s; loss: 587.6937;
+2024-04-15 18:13:08,847 - test - INFO -      Instance: 78000; Time: 10.29s; loss: 612.2919;
+2024-04-15 18:13:19,177 - test - INFO -      Instance: 80000; Time: 10.33s; loss: 594.1370;
+2024-04-15 18:13:29,451 - test - INFO -      Instance: 82000; Time: 10.27s; loss: 581.9469;
+2024-04-15 18:13:39,747 - test - INFO -      Instance: 84000; Time: 10.30s; loss: 584.0705;
+2024-04-15 18:13:50,060 - test - INFO -      Instance: 86000; Time: 10.31s; loss: 581.3633;
+2024-04-15 18:14:00,341 - test - INFO -      Instance: 88000; Time: 10.28s; loss: 560.8153;
+2024-04-15 18:14:10,610 - test - INFO -      Instance: 90000; Time: 10.27s; loss: 554.3805;
+2024-04-15 18:14:20,920 - test - INFO -      Instance: 92000; Time: 10.31s; loss: 542.4324;
+2024-04-15 18:14:31,245 - test - INFO -      Instance: 94000; Time: 10.33s; loss: 589.4066;
+2024-04-15 18:14:41,567 - test - INFO -      Instance: 96000; Time: 10.32s; loss: 569.9949;
+2024-04-15 18:14:52,000 - test - INFO -      Instance: 98000; Time: 10.43s; loss: 560.0087;
+2024-04-15 18:15:02,265 - test - INFO -      Instance: 100000; Time: 10.26s; loss: 564.0845;
+2024-04-15 18:15:12,529 - test - INFO -      Instance: 102000; Time: 10.26s; loss: 551.9508;
+2024-04-15 18:15:22,803 - test - INFO -      Instance: 104000; Time: 10.27s; loss: 550.6674;
+2024-04-15 18:15:33,142 - test - INFO -      Instance: 106000; Time: 10.34s; loss: 562.7788;
+2024-04-15 18:15:43,470 - test - INFO -      Instance: 108000; Time: 10.33s; loss: 520.9191;
+2024-04-15 18:15:53,763 - test - INFO -      Instance: 110000; Time: 10.29s; loss: 553.1476;
+2024-04-15 18:16:04,059 - test - INFO -      Instance: 112000; Time: 10.30s; loss: 535.3830;
+2024-04-15 18:16:14,351 - test - INFO -      Instance: 114000; Time: 10.29s; loss: 525.3171;
+2024-04-15 18:16:24,658 - test - INFO -      Instance: 116000; Time: 10.31s; loss: 555.1810;
+2024-04-15 18:16:35,004 - test - INFO -      Instance: 118000; Time: 10.35s; loss: 558.1792;
+2024-04-15 18:16:45,299 - test - INFO -      Instance: 120000; Time: 10.30s; loss: 502.0164;
+2024-04-15 18:16:55,644 - test - INFO -      Instance: 122000; Time: 10.35s; loss: 509.5199;
+2024-04-15 18:17:05,958 - test - INFO -      Instance: 124000; Time: 10.31s; loss: 524.0910;
+2024-04-15 18:17:16,284 - test - INFO -      Instance: 126000; Time: 10.33s; loss: 523.3689;
+2024-04-15 18:17:26,580 - test - INFO -      Instance: 128000; Time: 10.30s; loss: 512.3280;
+2024-04-15 18:17:36,839 - test - INFO -      Instance: 130000; Time: 10.26s; loss: 517.7955;
+2024-04-15 18:17:47,120 - test - INFO -      Instance: 132000; Time: 10.28s; loss: 498.9284;
+2024-04-15 18:17:57,391 - test - INFO -      Instance: 134000; Time: 10.27s; loss: 492.8754;
+2024-04-15 18:18:07,644 - test - INFO -      Instance: 136000; Time: 10.25s; loss: 507.2537;
+2024-04-15 18:18:17,983 - test - INFO -      Instance: 138000; Time: 10.34s; loss: 513.4485;
+2024-04-15 18:18:28,261 - test - INFO -      Instance: 140000; Time: 10.28s; loss: 488.7859;
+2024-04-15 18:18:38,531 - test - INFO -      Instance: 142000; Time: 10.27s; loss: 503.8155;
+2024-04-15 18:18:48,906 - test - INFO -      Instance: 144000; Time: 10.38s; loss: 517.2195;
+2024-04-15 18:18:59,259 - test - INFO -      Instance: 146000; Time: 10.35s; loss: 499.3247;
+2024-04-15 18:19:09,561 - test - INFO -      Instance: 148000; Time: 10.30s; loss: 491.4276;
+2024-04-15 18:19:19,851 - test - INFO -      Instance: 150000; Time: 10.29s; loss: 492.8232;
+2024-04-15 18:19:30,115 - test - INFO -      Instance: 152000; Time: 10.26s; loss: 502.5652;
+2024-04-15 18:19:40,445 - test - INFO -      Instance: 154000; Time: 10.33s; loss: 478.7537;
+2024-04-15 18:19:50,705 - test - INFO -      Instance: 156000; Time: 10.26s; loss: 481.2737;
+2024-04-15 18:20:00,992 - test - INFO -      Instance: 158000; Time: 10.29s; loss: 482.1006;
+2024-04-15 18:20:11,303 - test - INFO -      Instance: 160000; Time: 10.31s; loss: 494.2650;
+2024-04-15 18:20:21,594 - test - INFO -      Instance: 162000; Time: 10.29s; loss: 451.3774;
+2024-04-15 18:20:31,884 - test - INFO -      Instance: 164000; Time: 10.29s; loss: 471.5210;
+2024-04-15 18:20:42,155 - test - INFO -      Instance: 166000; Time: 10.27s; loss: 478.4841;
+2024-04-15 18:20:52,482 - test - INFO -      Instance: 168000; Time: 10.33s; loss: 484.0154;
+2024-04-15 18:21:02,720 - test - INFO -      Instance: 170000; Time: 10.24s; loss: 481.2295;
+2024-04-15 18:21:12,971 - test - INFO -      Instance: 172000; Time: 10.25s; loss: 468.3266;
+2024-04-15 18:21:23,292 - test - INFO -      Instance: 174000; Time: 10.32s; loss: 469.1691;
+2024-04-15 18:21:33,601 - test - INFO -      Instance: 176000; Time: 10.31s; loss: 443.9811;
+2024-04-15 18:21:43,901 - test - INFO -      Instance: 178000; Time: 10.30s; loss: 464.4252;
+2024-04-15 18:21:54,179 - test - INFO -      Instance: 180000; Time: 10.28s; loss: 478.3404;
+2024-04-15 18:22:04,526 - test - INFO -      Instance: 182000; Time: 10.35s; loss: 467.5721;
+2024-04-15 18:22:14,822 - test - INFO -      Instance: 184000; Time: 10.30s; loss: 437.8545;
+2024-04-15 18:22:25,129 - test - INFO -      Instance: 186000; Time: 10.31s; loss: 457.2963;
+2024-04-15 18:22:35,471 - test - INFO -      Instance: 188000; Time: 10.34s; loss: 475.0539;
+2024-04-15 18:22:45,825 - test - INFO -      Instance: 190000; Time: 10.35s; loss: 461.5939;
+2024-04-15 18:22:56,148 - test - INFO -      Instance: 192000; Time: 10.32s; loss: 461.9256;
+2024-04-15 18:23:06,433 - test - INFO -      Instance: 194000; Time: 10.28s; loss: 457.0286;
+2024-04-15 18:23:16,792 - test - INFO -      Instance: 196000; Time: 10.36s; loss: 447.3216;
+2024-04-15 18:23:27,154 - test - INFO -      Instance: 198000; Time: 10.36s; loss: 440.5972;
+2024-04-15 18:23:37,534 - test - INFO -      Instance: 200000; Time: 10.38s; loss: 472.3008;
+2024-04-15 18:23:47,831 - test - INFO -      Instance: 202000; Time: 10.30s; loss: 473.9797;
+2024-04-15 18:23:58,160 - test - INFO -      Instance: 204000; Time: 10.33s; loss: 479.8677;
+2024-04-15 18:25:16,155 - test - INFO - Dev: time: 74.96s speed: 916.81st/s; acc: 0.6730; f: 0.1378;
+2024-04-15 18:26:25,195 - test - INFO - Save current best acc model in file:/home/hsani/YATO/dataset/acc0.6444_p0.1166_r0.1619_f0.1287.pth
+2024-04-15 18:26:26,553 - test - INFO - Save current best f model in file:/home/hsani/YATO/dataset/acc0.6444_p0.1166_r0.1619_f0.1287.pth
+2024-04-15 18:26:26,554 - test - INFO - Test: time: 69.04s, speed: 924.78st/s; acc: 0.6444, p: 0.1166, r: 0.1619, f: 0.1287
+2024-04-15 18:26:37,044 - test - INFO -      Instance: 2000; Time: 10.49s; loss: 437.3026;
+2024-04-15 18:26:47,308 - test - INFO -      Instance: 4000; Time: 10.26s; loss: 430.0945;
+2024-04-15 18:26:57,584 - test - INFO -      Instance: 6000; Time: 10.28s; loss: 413.1413;
+2024-04-15 18:27:07,892 - test - INFO -      Instance: 8000; Time: 10.31s; loss: 420.7138;
+2024-04-15 18:27:18,178 - test - INFO -      Instance: 10000; Time: 10.29s; loss: 398.2891;
+2024-04-15 18:27:28,491 - test - INFO -      Instance: 12000; Time: 10.31s; loss: 414.1611;
+2024-04-15 18:27:38,800 - test - INFO -      Instance: 14000; Time: 10.31s; loss: 403.2612;
+2024-04-15 18:27:49,085 - test - INFO -      Instance: 16000; Time: 10.29s; loss: 424.5441;
+2024-04-15 18:27:59,362 - test - INFO -      Instance: 18000; Time: 10.28s; loss: 412.2492;
+2024-04-15 18:28:09,644 - test - INFO -      Instance: 20000; Time: 10.28s; loss: 401.1419;
+2024-04-15 18:28:19,945 - test - INFO -      Instance: 22000; Time: 10.30s; loss: 431.6732;
+2024-04-15 18:28:30,196 - test - INFO -      Instance: 24000; Time: 10.25s; loss: 396.5995;
+2024-04-15 18:28:40,471 - test - INFO -      Instance: 26000; Time: 10.28s; loss: 390.3494;
+2024-04-15 18:28:50,821 - test - INFO -      Instance: 28000; Time: 10.35s; loss: 416.3685;
+2024-04-15 18:29:01,073 - test - INFO -      Instance: 30000; Time: 10.25s; loss: 392.1767;
+2024-04-15 18:29:11,342 - test - INFO -      Instance: 32000; Time: 10.27s; loss: 387.3176;
+2024-04-15 18:29:21,627 - test - INFO -      Instance: 34000; Time: 10.28s; loss: 393.8814;
+2024-04-15 18:29:31,957 - test - INFO -      Instance: 36000; Time: 10.33s; loss: 413.6620;
+2024-04-15 18:29:42,252 - test - INFO -      Instance: 38000; Time: 10.29s; loss: 393.8931;
+2024-04-15 18:29:52,536 - test - INFO -      Instance: 40000; Time: 10.28s; loss: 388.7336;
+2024-04-15 18:30:02,823 - test - INFO -      Instance: 42000; Time: 10.29s; loss: 399.1081;
+2024-04-15 18:30:13,177 - test - INFO -      Instance: 44000; Time: 10.35s; loss: 409.4488;
+2024-04-15 18:30:23,509 - test - INFO -      Instance: 46000; Time: 10.33s; loss: 385.5536;
+2024-04-15 18:30:33,832 - test - INFO -      Instance: 48000; Time: 10.32s; loss: 383.9296;
+2024-04-15 18:30:44,211 - test - INFO -      Instance: 50000; Time: 10.38s; loss: 377.7256;
+2024-04-15 18:30:54,543 - test - INFO -      Instance: 52000; Time: 10.33s; loss: 407.1893;
+2024-04-15 18:31:04,902 - test - INFO -      Instance: 54000; Time: 10.36s; loss: 395.9954;
+2024-04-15 18:31:15,164 - test - INFO -      Instance: 56000; Time: 10.26s; loss: 388.3480;
+2024-04-15 18:31:25,448 - test - INFO -      Instance: 58000; Time: 10.28s; loss: 376.4414;
+2024-04-15 18:31:35,754 - test - INFO -      Instance: 60000; Time: 10.31s; loss: 391.4910;
+2024-04-15 18:31:46,064 - test - INFO -      Instance: 62000; Time: 10.31s; loss: 368.0827;
+2024-04-15 18:31:56,426 - test - INFO -      Instance: 64000; Time: 10.36s; loss: 382.0101;
+2024-04-15 18:32:06,728 - test - INFO -      Instance: 66000; Time: 10.30s; loss: 386.2634;
+2024-04-15 18:32:17,008 - test - INFO -      Instance: 68000; Time: 10.28s; loss: 383.7957;
+2024-04-15 18:32:27,319 - test - INFO -      Instance: 70000; Time: 10.31s; loss: 380.5594;
+2024-04-15 18:32:37,652 - test - INFO -      Instance: 72000; Time: 10.33s; loss: 387.1753;
+2024-04-15 18:32:47,967 - test - INFO -      Instance: 74000; Time: 10.32s; loss: 368.7110;
+2024-04-15 18:32:58,300 - test - INFO -      Instance: 76000; Time: 10.33s; loss: 379.7583;
+2024-04-15 18:33:08,619 - test - INFO -      Instance: 78000; Time: 10.32s; loss: 365.0409;
+2024-04-15 18:33:18,981 - test - INFO -      Instance: 80000; Time: 10.36s; loss: 383.6562;
+2024-04-15 18:33:29,265 - test - INFO -      Instance: 82000; Time: 10.28s; loss: 363.8183;
+2024-04-15 18:33:39,580 - test - INFO -      Instance: 84000; Time: 10.32s; loss: 372.1302;
+2024-04-15 18:33:49,886 - test - INFO -      Instance: 86000; Time: 10.31s; loss: 391.3603;
+2024-04-15 18:34:00,230 - test - INFO -      Instance: 88000; Time: 10.34s; loss: 389.9699;
+2024-04-15 18:34:10,521 - test - INFO -      Instance: 90000; Time: 10.29s; loss: 362.7073;
+2024-04-15 18:34:20,842 - test - INFO -      Instance: 92000; Time: 10.32s; loss: 370.9336;
+2024-04-15 18:34:31,145 - test - INFO -      Instance: 94000; Time: 10.30s; loss: 344.0936;
+2024-04-15 18:34:41,458 - test - INFO -      Instance: 96000; Time: 10.31s; loss: 392.0786;
+2024-04-15 18:34:51,792 - test - INFO -      Instance: 98000; Time: 10.33s; loss: 380.0509;
+2024-04-15 18:35:02,107 - test - INFO -      Instance: 100000; Time: 10.32s; loss: 389.7447;
+2024-04-15 18:35:12,384 - test - INFO -      Instance: 102000; Time: 10.28s; loss: 354.2602;
+2024-04-15 18:35:22,680 - test - INFO -      Instance: 104000; Time: 10.30s; loss: 363.9660;
+2024-04-15 18:35:33,053 - test - INFO -      Instance: 106000; Time: 10.37s; loss: 361.6122;
+2024-04-15 18:35:43,390 - test - INFO -      Instance: 108000; Time: 10.34s; loss: 348.2304;
+2024-04-15 18:35:53,670 - test - INFO -      Instance: 110000; Time: 10.28s; loss: 347.3577;
+2024-04-15 18:36:04,007 - test - INFO -      Instance: 112000; Time: 10.34s; loss: 359.1192;
+2024-04-15 18:36:14,415 - test - INFO -      Instance: 114000; Time: 10.41s; loss: 347.6287;
+2024-04-15 18:36:24,741 - test - INFO -      Instance: 116000; Time: 10.33s; loss: 347.7938;
+2024-04-15 18:36:35,055 - test - INFO -      Instance: 118000; Time: 10.31s; loss: 363.7414;
+2024-04-15 18:36:45,371 - test - INFO -      Instance: 120000; Time: 10.32s; loss: 370.2140;
+2024-04-15 18:36:55,687 - test - INFO -      Instance: 122000; Time: 10.32s; loss: 343.6531;
+2024-04-15 18:37:06,021 - test - INFO -      Instance: 124000; Time: 10.33s; loss: 361.2380;
+2024-04-15 18:37:16,338 - test - INFO -      Instance: 126000; Time: 10.32s; loss: 354.3616;
+2024-04-15 18:37:26,578 - test - INFO -      Instance: 128000; Time: 10.24s; loss: 356.6296;
+2024-04-15 18:37:36,891 - test - INFO -      Instance: 130000; Time: 10.31s; loss: 370.2208;
+2024-04-15 18:37:47,211 - test - INFO -      Instance: 132000; Time: 10.32s; loss: 348.3891;
+2024-04-15 18:37:57,529 - test - INFO -      Instance: 134000; Time: 10.32s; loss: 384.9474;
+2024-04-15 18:38:07,816 - test - INFO -      Instance: 136000; Time: 10.29s; loss: 327.8495;
+2024-04-15 18:38:18,132 - test - INFO -      Instance: 138000; Time: 10.32s; loss: 353.7091;
+2024-04-15 18:38:28,507 - test - INFO -      Instance: 140000; Time: 10.37s; loss: 380.7998;
+2024-04-15 18:38:38,784 - test - INFO -      Instance: 142000; Time: 10.28s; loss: 358.8582;
+2024-04-15 18:38:49,075 - test - INFO -      Instance: 144000; Time: 10.29s; loss: 361.5978;
+2024-04-15 18:38:59,383 - test - INFO -      Instance: 146000; Time: 10.31s; loss: 344.2053;
+2024-04-15 18:39:09,721 - test - INFO -      Instance: 148000; Time: 10.34s; loss: 372.5714;
+2024-04-15 18:39:19,991 - test - INFO -      Instance: 150000; Time: 10.27s; loss: 354.3238;
+2024-04-15 18:39:30,313 - test - INFO -      Instance: 152000; Time: 10.32s; loss: 353.1593;
+2024-04-15 18:39:40,676 - test - INFO -      Instance: 154000; Time: 10.36s; loss: 376.0774;
+2024-04-15 18:39:50,999 - test - INFO -      Instance: 156000; Time: 10.32s; loss: 334.2074;
+2024-04-15 18:40:01,356 - test - INFO -      Instance: 158000; Time: 10.36s; loss: 365.9095;
+2024-04-15 18:40:11,663 - test - INFO -      Instance: 160000; Time: 10.31s; loss: 328.0012;
+2024-04-15 18:40:21,943 - test - INFO -      Instance: 162000; Time: 10.28s; loss: 339.6290;
+2024-04-15 18:40:32,234 - test - INFO -      Instance: 164000; Time: 10.29s; loss: 349.8465;
+2024-04-15 18:40:42,513 - test - INFO -      Instance: 166000; Time: 10.28s; loss: 329.9354;
+2024-04-15 18:40:52,847 - test - INFO -      Instance: 168000; Time: 10.33s; loss: 327.7228;
+2024-04-15 18:41:03,117 - test - INFO -      Instance: 170000; Time: 10.27s; loss: 352.9842;
+2024-04-15 18:41:13,438 - test - INFO -      Instance: 172000; Time: 10.32s; loss: 345.6258;
+2024-04-15 18:41:23,802 - test - INFO -      Instance: 174000; Time: 10.36s; loss: 347.5396;
+2024-04-15 18:41:34,188 - test - INFO -      Instance: 176000; Time: 10.39s; loss: 352.8043;
+2024-04-15 18:41:44,500 - test - INFO -      Instance: 178000; Time: 10.31s; loss: 351.8954;
+2024-04-15 18:41:54,818 - test - INFO -      Instance: 180000; Time: 10.32s; loss: 347.5758;
+2024-04-15 18:42:05,109 - test - INFO -      Instance: 182000; Time: 10.29s; loss: 374.3088;
+2024-04-15 18:42:15,413 - test - INFO -      Instance: 184000; Time: 10.30s; loss: 352.3765;
+2024-04-15 18:42:25,670 - test - INFO -      Instance: 186000; Time: 10.26s; loss: 330.7894;
+2024-04-15 18:42:35,943 - test - INFO -      Instance: 188000; Time: 10.27s; loss: 319.5408;
+2024-04-15 18:42:46,232 - test - INFO -      Instance: 190000; Time: 10.29s; loss: 332.6010;
+2024-04-15 18:42:56,537 - test - INFO -      Instance: 192000; Time: 10.30s; loss: 325.4838;
+2024-04-15 18:43:06,877 - test - INFO -      Instance: 194000; Time: 10.34s; loss: 333.9985;
+2024-04-15 18:43:17,186 - test - INFO -      Instance: 196000; Time: 10.31s; loss: 338.7975;
+2024-04-15 18:43:27,479 - test - INFO -      Instance: 198000; Time: 10.29s; loss: 345.7602;
+2024-04-15 18:43:37,728 - test - INFO -      Instance: 200000; Time: 10.25s; loss: 309.5793;
+2024-04-15 18:43:48,001 - test - INFO -      Instance: 202000; Time: 10.27s; loss: 342.0459;
+2024-04-15 18:43:58,296 - test - INFO -      Instance: 204000; Time: 10.29s; loss: 341.2591;
+2024-04-15 18:45:15,809 - test - INFO - Dev: time: 74.51s speed: 923.44st/s; acc: 0.7348; f: 0.2244;
+2024-04-15 18:46:24,871 - test - INFO - Save current best acc model in file:/home/hsani/YATO/dataset/acc0.7019_p0.1883_r0.2478_f0.2055.pth
+2024-04-15 18:46:26,354 - test - INFO - Save current best f model in file:/home/hsani/YATO/dataset/acc0.7019_p0.1883_r0.2478_f0.2055.pth
+2024-04-15 18:46:26,356 - test - INFO - Test: time: 69.06s, speed: 924.94st/s; acc: 0.7019, p: 0.1883, r: 0.2478, f: 0.2055
+2024-04-15 18:46:36,745 - test - INFO -      Instance: 2000; Time: 10.39s; loss: 298.0806;
+2024-04-15 18:46:47,053 - test - INFO -      Instance: 4000; Time: 10.31s; loss: 306.5491;
+2024-04-15 18:46:57,390 - test - INFO -      Instance: 6000; Time: 10.34s; loss: 306.7805;
+2024-04-15 18:47:07,691 - test - INFO -      Instance: 8000; Time: 10.30s; loss: 303.2202;
+2024-04-15 18:47:17,978 - test - INFO -      Instance: 10000; Time: 10.29s; loss: 312.3829;
+2024-04-15 18:47:28,267 - test - INFO -      Instance: 12000; Time: 10.29s; loss: 296.3042;
+2024-04-15 18:47:38,580 - test - INFO -      Instance: 14000; Time: 10.31s; loss: 291.5059;
+2024-04-15 18:47:48,888 - test - INFO -      Instance: 16000; Time: 10.31s; loss: 320.8635;
+2024-04-15 18:47:59,208 - test - INFO -      Instance: 18000; Time: 10.32s; loss: 312.9636;
+2024-04-15 18:48:09,534 - test - INFO -      Instance: 20000; Time: 10.33s; loss: 293.9784;
+2024-04-15 18:48:19,847 - test - INFO -      Instance: 22000; Time: 10.31s; loss: 304.6167;
+2024-04-15 18:48:30,222 - test - INFO -      Instance: 24000; Time: 10.37s; loss: 308.4034;
+2024-04-15 18:48:40,558 - test - INFO -      Instance: 26000; Time: 10.34s; loss: 300.0278;
+2024-04-15 18:48:50,920 - test - INFO -      Instance: 28000; Time: 10.36s; loss: 292.7279;
+2024-04-15 18:49:01,261 - test - INFO -      Instance: 30000; Time: 10.34s; loss: 299.1605;
+2024-04-15 18:49:11,561 - test - INFO -      Instance: 32000; Time: 10.30s; loss: 303.1768;
+2024-04-15 18:49:21,994 - test - INFO -      Instance: 34000; Time: 10.43s; loss: 299.2537;
+2024-04-15 18:49:32,302 - test - INFO -      Instance: 36000; Time: 10.31s; loss: 294.1369;
+2024-04-15 18:49:42,605 - test - INFO -      Instance: 38000; Time: 10.30s; loss: 301.0744;
+2024-04-15 18:49:52,972 - test - INFO -      Instance: 40000; Time: 10.37s; loss: 308.9582;
+2024-04-15 18:50:03,291 - test - INFO -      Instance: 42000; Time: 10.32s; loss: 273.9148;
+2024-04-15 18:50:13,567 - test - INFO -      Instance: 44000; Time: 10.28s; loss: 297.6495;
+2024-04-15 18:50:23,886 - test - INFO -      Instance: 46000; Time: 10.32s; loss: 300.5521;
+2024-04-15 18:50:34,221 - test - INFO -      Instance: 48000; Time: 10.33s; loss: 286.8426;
+2024-04-15 18:50:44,469 - test - INFO -      Instance: 50000; Time: 10.25s; loss: 265.2652;
+2024-04-15 18:50:54,809 - test - INFO -      Instance: 52000; Time: 10.34s; loss: 296.4607;
+2024-04-15 18:51:05,095 - test - INFO -      Instance: 54000; Time: 10.29s; loss: 311.2901;
+2024-04-15 18:51:15,413 - test - INFO -      Instance: 56000; Time: 10.32s; loss: 315.6767;
+2024-04-15 18:51:25,751 - test - INFO -      Instance: 58000; Time: 10.34s; loss: 276.2598;
+2024-04-15 18:51:36,008 - test - INFO -      Instance: 60000; Time: 10.26s; loss: 261.0119;
+2024-04-15 18:51:46,315 - test - INFO -      Instance: 62000; Time: 10.31s; loss: 280.2408;
+2024-04-15 18:51:56,720 - test - INFO -      Instance: 64000; Time: 10.40s; loss: 295.3007;
+2024-04-15 18:52:07,039 - test - INFO -      Instance: 66000; Time: 10.32s; loss: 290.8614;
+2024-04-15 18:52:17,364 - test - INFO -      Instance: 68000; Time: 10.33s; loss: 278.9598;
+2024-04-15 18:52:27,689 - test - INFO -      Instance: 70000; Time: 10.33s; loss: 299.4105;
+2024-04-15 18:52:37,991 - test - INFO -      Instance: 72000; Time: 10.30s; loss: 293.6747;
+2024-04-15 18:52:48,312 - test - INFO -      Instance: 74000; Time: 10.32s; loss: 290.0280;
+2024-04-15 18:52:58,629 - test - INFO -      Instance: 76000; Time: 10.32s; loss: 298.5772;
+2024-04-15 18:53:08,923 - test - INFO -      Instance: 78000; Time: 10.29s; loss: 291.0227;
+2024-04-15 18:53:19,223 - test - INFO -      Instance: 80000; Time: 10.30s; loss: 275.9753;
+2024-04-15 18:53:29,563 - test - INFO -      Instance: 82000; Time: 10.34s; loss: 270.2708;
+2024-04-15 18:53:39,870 - test - INFO -      Instance: 84000; Time: 10.31s; loss: 282.9376;
+2024-04-15 18:53:50,239 - test - INFO -      Instance: 86000; Time: 10.37s; loss: 287.4686;
+2024-04-15 18:54:00,571 - test - INFO -      Instance: 88000; Time: 10.33s; loss: 298.6034;
+2024-04-15 18:54:10,873 - test - INFO -      Instance: 90000; Time: 10.30s; loss: 296.8779;
+2024-04-15 18:54:21,180 - test - INFO -      Instance: 92000; Time: 10.31s; loss: 278.5305;
+2024-04-15 18:54:31,446 - test - INFO -      Instance: 94000; Time: 10.27s; loss: 302.2825;
+2024-04-15 18:54:41,845 - test - INFO -      Instance: 96000; Time: 10.40s; loss: 286.8187;
+2024-04-15 18:54:52,161 - test - INFO -      Instance: 98000; Time: 10.32s; loss: 300.8806;
+2024-04-15 18:55:02,487 - test - INFO -      Instance: 100000; Time: 10.33s; loss: 286.4578;
+2024-04-15 18:55:12,769 - test - INFO -      Instance: 102000; Time: 10.28s; loss: 287.7054;
+2024-04-15 18:55:23,056 - test - INFO -      Instance: 104000; Time: 10.29s; loss: 276.4181;
+2024-04-15 18:55:33,330 - test - INFO -      Instance: 106000; Time: 10.27s; loss: 303.9266;
+2024-04-15 18:55:43,598 - test - INFO -      Instance: 108000; Time: 10.27s; loss: 296.8949;
+2024-04-15 18:55:53,884 - test - INFO -      Instance: 110000; Time: 10.29s; loss: 271.1652;
+2024-04-15 18:56:04,187 - test - INFO -      Instance: 112000; Time: 10.30s; loss: 277.3889;
+2024-04-15 18:56:14,477 - test - INFO -      Instance: 114000; Time: 10.29s; loss: 300.1118;
+2024-04-15 18:56:24,778 - test - INFO -      Instance: 116000; Time: 10.30s; loss: 278.3931;
+2024-04-15 18:56:35,130 - test - INFO -      Instance: 118000; Time: 10.35s; loss: 284.0466;
+2024-04-15 18:56:45,447 - test - INFO -      Instance: 120000; Time: 10.32s; loss: 279.3236;
+2024-04-15 18:56:55,752 - test - INFO -      Instance: 122000; Time: 10.31s; loss: 291.8036;
+2024-04-15 18:57:06,068 - test - INFO -      Instance: 124000; Time: 10.32s; loss: 292.3484;
+2024-04-15 18:57:16,348 - test - INFO -      Instance: 126000; Time: 10.28s; loss: 291.1356;
+2024-04-15 18:57:26,615 - test - INFO -      Instance: 128000; Time: 10.27s; loss: 275.1972;
+2024-04-15 18:57:36,962 - test - INFO -      Instance: 130000; Time: 10.35s; loss: 278.2514;
+2024-04-15 18:57:47,249 - test - INFO -      Instance: 132000; Time: 10.29s; loss: 267.1070;
+2024-04-15 18:57:57,554 - test - INFO -      Instance: 134000; Time: 10.30s; loss: 295.4234;
+2024-04-15 18:58:07,825 - test - INFO -      Instance: 136000; Time: 10.27s; loss: 272.4519;
+2024-04-15 18:58:18,226 - test - INFO -      Instance: 138000; Time: 10.40s; loss: 282.2820;
+2024-04-15 18:58:28,560 - test - INFO -      Instance: 140000; Time: 10.33s; loss: 303.3839;
+2024-04-15 18:58:38,845 - test - INFO -      Instance: 142000; Time: 10.28s; loss: 281.0372;
+2024-04-15 18:58:49,179 - test - INFO -      Instance: 144000; Time: 10.33s; loss: 282.0179;
+2024-04-15 18:58:59,487 - test - INFO -      Instance: 146000; Time: 10.31s; loss: 276.4775;
+2024-04-15 18:59:09,768 - test - INFO -      Instance: 148000; Time: 10.28s; loss: 277.5494;
+2024-04-15 18:59:20,036 - test - INFO -      Instance: 150000; Time: 10.27s; loss: 289.5474;
+2024-04-15 19:44:56,782 - test - INFO - Training model...
+2024-04-15 19:45:21,100 - test - INFO -      Instance: 2000; Time: 20.43s; loss: 176.5522;
+2024-04-15 19:45:40,096 - test - INFO -      Instance: 4000; Time: 19.00s; loss: 149.4632;
+2024-04-15 19:45:40,937 - test - INFO - Dev: time: 0.70s speed: 291.40st/s; acc: 0.5323; f: 0.5090;
+2024-04-15 19:45:41,655 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 19:45:41,656 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.6716_p0.6817_r0.6311_f0.6411.pth
+2024-04-15 19:45:41,657 - test - INFO - Test: time: 0.72s, speed: 281.85st/s; acc: 0.6716, p: 0.6817, r: 0.6311, f: 0.6411
+2024-04-15 19:46:00,961 - test - INFO -      Instance: 2000; Time: 19.30s; loss: 118.8626;
+2024-04-15 19:46:20,197 - test - INFO -      Instance: 4000; Time: 19.24s; loss: 113.9749;
+2024-04-15 19:46:21,225 - test - INFO - Dev: time: 0.90s speed: 225.49st/s; acc: 0.4925; f: 0.4846;
+2024-04-15 19:46:22,146 - test - INFO - Test: time: 0.92s, speed: 219.42st/s; acc: 0.7214, p: 0.7368, r: 0.7404, f: 0.7018
+2024-04-15 19:46:41,008 - test - INFO -      Instance: 2000; Time: 18.86s; loss: 80.6135;
+2024-04-15 19:47:00,180 - test - INFO -      Instance: 4000; Time: 19.17s; loss: 76.2640;
+2024-04-15 19:47:01,230 - test - INFO - Dev: time: 0.90s speed: 224.99st/s; acc: 0.5323; f: 0.5272;
+2024-04-15 19:47:02,150 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.8905_p0.8889_r0.9034_f0.8933.pth
+2024-04-15 19:47:02,178 - test - INFO - Test: time: 0.92s, speed: 219.86st/s; acc: 0.8905, p: 0.8889, r: 0.9034, f: 0.8933
+2024-04-15 19:47:21,833 - test - INFO -      Instance: 2000; Time: 19.65s; loss: 50.5342;
+2024-04-15 19:47:42,200 - test - INFO -      Instance: 4000; Time: 20.37s; loss: 50.4661;
+2024-04-15 19:47:43,012 - test - INFO - Dev: time: 0.68s speed: 296.92st/s; acc: 0.5572; f: 0.5547;
+2024-04-15 19:47:43,712 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 19:47:43,720 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9104_p0.9026_r0.9297_f0.9132.pth
+2024-04-15 19:47:43,721 - test - INFO - Test: time: 0.70s, speed: 289.58st/s; acc: 0.9104, p: 0.9026, r: 0.9297, f: 0.9132
+2024-04-15 19:48:02,316 - test - INFO -      Instance: 2000; Time: 18.59s; loss: 30.6586;
+2024-04-15 19:48:22,403 - test - INFO -      Instance: 4000; Time: 20.09s; loss: 30.8606;
+2024-04-15 19:48:23,448 - test - INFO - Dev: time: 0.90s speed: 225.43st/s; acc: 0.5622; f: 0.5689;
+2024-04-15 19:48:24,363 - test - INFO - Save current best acc model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 19:48:24,391 - test - INFO - Save current best f model in file:/home/hsani/YATO/sample_data/acc0.9403_p0.9383_r0.9530_f0.9442.pth
+2024-04-15 19:48:24,392 - test - INFO - Test: time: 0.91s, speed: 221.10st/s; acc: 0.9403, p: 0.9383, r: 0.9530, f: 0.9442
+2024-04-15 19:48:44,455 - test - INFO -      Instance: 2000; Time: 20.06s; loss: 16.5714;
+2024-04-15 19:49:04,612 - test - INFO -      Instance: 4000; Time: 20.16s; loss: 19.9145;
+2024-04-15 19:49:05,419 - test - INFO - Dev: time: 0.68s speed: 297.26st/s; acc: 0.5174; f: 0.5175;
+2024-04-15 19:49:06,255 - test - INFO - Test: time: 0.84s, speed: 241.94st/s; acc: 0.9652, p: 0.9660, r: 0.9742, f: 0.9689
+2024-04-15 19:49:25,943 - test - INFO -      Instance: 2000; Time: 19.69s; loss: 17.1701;
+2024-04-15 19:49:46,284 - test - INFO -      Instance: 4000; Time: 20.34s; loss: 13.4098;
+2024-04-15 19:49:47,109 - test - INFO - Dev: time: 0.70s speed: 288.26st/s; acc: 0.5174; f: 0.5181;
+2024-04-15 19:49:47,809 - test - INFO - Test: time: 0.70s, speed: 289.04st/s; acc: 0.9900, p: 0.9907, r: 0.9926, f: 0.9915
+2024-04-15 19:50:06,916 - test - INFO -      Instance: 2000; Time: 19.11s; loss: 9.7385;
+2024-04-15 19:50:26,809 - test - INFO -      Instance: 4000; Time: 19.89s; loss: 7.2472;
+2024-04-15 19:50:27,842 - test - INFO - Dev: time: 0.90s speed: 225.24st/s; acc: 0.4826; f: 0.4849;
+2024-04-15 19:50:28,757 - test - INFO - Test: time: 0.91s, speed: 220.92st/s; acc: 0.9701, p: 0.9779, r: 0.9721, f: 0.9739
+2024-04-15 19:50:47,454 - test - INFO -      Instance: 2000; Time: 18.70s; loss: 10.8484;
+2024-04-15 19:51:06,313 - test - INFO -      Instance: 4000; Time: 18.86s; loss: 6.3073;
+2024-04-15 19:51:07,120 - test - INFO - Dev: time: 0.68s speed: 298.21st/s; acc: 0.5473; f: 0.5548;
+2024-04-15 19:51:07,816 - test - INFO - Test: time: 0.70s, speed: 290.57st/s; acc: 1.0000, p: 1.0000, r: 1.0000, f: 1.0000
+2024-04-15 19:51:27,535 - test - INFO -      Instance: 2000; Time: 19.72s; loss: 4.3336;
+2024-04-15 19:51:46,903 - test - INFO -      Instance: 4000; Time: 19.37s; loss: 6.8117;
+2024-04-15 19:51:47,735 - test - INFO - Dev: time: 0.68s speed: 298.24st/s; acc: 0.5274; f: 0.5244;
+2024-04-15 19:51:48,431 - test - INFO - Test: time: 0.70s, speed: 290.82st/s; acc: 0.9950, p: 0.9962, r: 0.9951, f: 0.9956
+2024-04-15 19:51:48,431 - test - INFO - Best Test F1 Score: 0.9441933867224707, Best Validation F1 Score: 0.5688652164950947, Best Test F1 Score Epoch: 4 
