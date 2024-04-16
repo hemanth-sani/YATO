@@ -155,7 +155,7 @@ The traditional CRF structure decodes only one label sequence with the largest p
 
 The Latex code will generate a separate .pdf visualization file.
 
-![alt text](./readme/attention.png "Visualization of attention map in Transformer-based model")
+![alt text](./readme/sentences.png "Visualization of attention map in Transformer-based model")
 
 For example,
 
